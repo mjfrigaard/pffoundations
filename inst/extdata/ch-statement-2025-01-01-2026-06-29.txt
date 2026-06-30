@@ -1,0 +1,1573 @@
+Date,Description,Original Description,Category,Amount,Status
+2026-06-29,"IBI*SavageXFenty                 062926","IBI*SavageXFenty                 062926",Category Pending,-10.90,Pending
+2026-06-29,"COX COMM PHX     PURCHASE   ***********1EvC","COX COMM PHX     PURCHASE   ***********1EvC",Category Pending,-179.95,Pending
+2026-06-29,"AMAZON.COM*XE2ZZ81T3             062826","AMAZON.COM*XE2ZZ81T3             062826",Category Pending,-19.65,Pending
+2026-06-29,"AMAZON.COM*BD8JH2LS3             062826","AMAZON.COM*BD8JH2LS3             062826",Category Pending,-39.05,Pending
+2026-06-26,"CELLULAR SALES AZ-ST             062626","CELLULAR SALES AZ-ST             062626",Category Pending,-69.72,Pending
+2026-06-26,"Aidvantage","ADVS ED SERV WEB STUDNTLOAN ***********A0O1",Student Loan,-952.54,Posted
+2026-06-26,"Stash","STASH CAPITAL (S ACH        ***********2080",Investments,-100.00,Posted
+2026-06-26,"Blue Sky Pest Co","Blue Sky Pest Co WWP*Blue S ***********2420",Uncategorized,-45.00,Posted
+2026-06-26,"PayPal","PAYPAL           PURCHASE   ***********1518",Uncategorized,-34.99,Posted
+2026-06-26,"PayPal","PAYPAL           PURCHASE   *********** 5DD",Uncategorized,-11.61,Posted
+2026-06-26,"Instacart via Instacart","IC* COSTCO BY INSTACAR   INSTACART.COMCA",Shopping,-175.73,Posted
+2026-06-26,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-3.81,Posted
+2026-06-26,"Apple","APPLE COM                CUPERTINO    CA",Electronics & Software,-3.18,Posted
+2026-06-25,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-107.52,Posted
+2026-06-25,"Quick Clean Car Wash","QUICK CLEAN CAR WASH     CHANDLER     AZ",Service & Parts,-34.00,Posted
+2026-06-25,"Returned Deposit Item","RETURNED DEPOSIT ITEM",Banking Fee,-63.07,Posted
+2026-06-24,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-243.00,Posted
+2026-06-24,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-107.80,Posted
+2026-06-24,"Hulu","Hulu                     SANTA MONICA CA",Television,-20.47,Posted
+2026-06-24,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-10.97,Posted
+2026-06-23,"Stash Cash Tal","Stash Cash Mngt  Stash      ***********8TAL",Investments,-30.00,Posted
+2026-06-23,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-12.75,Posted
+2026-06-23,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-11.96,Posted
+2026-06-23,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-11.12,Posted
+2026-06-23,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-10.82,Posted
+2026-06-22,"USAA Property and Casualty Insurance","USAA P&C         BILLPYMNT  ***********1619",Financial,-108.19,Posted
+2026-06-22,"Amazon","AMAZON.COM SERVI INTERNET   ***********8020",Shopping,-46.76,Posted
+2026-06-22,"Rocket Money Premium","Rocket Money     Premium    ***********O3Q8",Financial,-10.78,Posted
+2026-06-22,"Freedom Industries","FREEDOM INDUSTRIES       562-3108142  DE",Clothing,-139.00,Posted
+2026-06-22,"Instacart","IC* INSTACART            INSTACART.COMCA",Groceries,-80.80,Posted
+2026-06-22,"SavageXFenty","IBI*SavageXFenty         855-7282439  CA",Clothing,-65.95,Posted
+2026-06-22,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-43.99,Posted
+2026-06-22,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-42.50,Posted
+2026-06-22,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-36.11,Posted
+2026-06-22,"Prime Video","Prime Video *097LG6DJ3   888-802-3080 WA",Television,-26.56,Posted
+2026-06-22,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-15.87,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-14.42,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-13.11,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-11.92,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-11.80,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-11.52,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-11.33,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-11.33,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-11.17,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-11.02,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-11.01,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-10.96,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-10.93,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-10.91,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-10.89,Posted
+2026-06-22,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-10.88,Posted
+2026-06-22,"Prime Video","Prime Video *K28A172Z3   888-802-3080 WA",Television,-10.62,Posted
+2026-06-22,"Prime Video","Prime Video *997TL6BS3   888-802-3080 WA",Television,-10.62,Posted
+2026-06-22,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-10.62,Posted
+2026-06-22,"Mobile Deposit","DEPOSIT@MOBILE",Income,515.75,Posted
+2026-06-22,"Mobile Deposit","DEPOSIT@MOBILE",Income,63.07,Posted
+2026-06-22,"Mobile Deposit","DEPOSIT@MOBILE",Income,58.80,Posted
+2026-06-18,"Onpoint Visa Payment","ONPOINT VISA PMT PAYMENT    ***********6440",Credit Card Payment,-273.15,Posted
+2026-06-18,"Fandango","PAYPAL *FANDANGO         402-935-7733 CA",Movies & Dvds,-26.56,Posted
+2026-06-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-11.56,Posted
+2026-06-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-11.49,Posted
+2026-06-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-10.83,Posted
+2026-06-17,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-250.03,Posted
+2026-06-17,"Instacart via Instacart","IC* COSTCO BY INSTACAR   INSTACART.COMCA",Shopping,-252.56,Posted
+2026-06-17,"Circle K","CIRCLE K # 03462         CHANDLER     AZ",Gas,-32.44,Posted
+2026-06-17,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2026-06-17,"Redbock Payroll","REDBOCK          PAYROLL    ***********6Q8J",Paycheck,4534.71,Posted
+2026-06-16,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2897.07,Posted
+2026-06-16,"Stash Cash Mgep","Stash Cash Mngt  Stash      ***********MGEP",Investments,-30.00,Posted
+2026-06-16,"Amazon Grocery","Amazon Grocery Subscri   888-280-4331 WA",Groceries,-10.62,Posted
+2026-06-15,"USAA Credit Card","USAA CREDIT CARD PAYMENT    ***********5021",Credit Card Payment,-187.00,Posted
+2026-06-15,"PayPal","PAYPAL           PURCHASE   ***********OSTC",Uncategorized,-151.61,Posted
+2026-06-15,"PayPal","PAYPAL           PURCHASE   ***********.HBO",Uncategorized,-19.66,Posted
+2026-06-15,"Elka Bees Coffee & Wilsonvile or","SQ *ELKA BEES COFFEE &   Wilsonvile   OR",Coffee Shops,-32.28,Posted
+2026-06-15,"Plaid Pantry","PLAID PANTRY #129        WILSONVILLE  OR",Food & Dining,-12.30,Posted
+2026-06-15,"Safeway","SAFEWAY #0285            WILSONVILLE  OR",Groceries,-10.91,Posted
+2026-06-12,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-107.80,Posted
+2026-06-11,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-34.70,Posted
+2026-06-11,"Amazon","AMAZON MARKETPLA INTERNET   ***********8392",Shopping,-25.52,Posted
+2026-06-11,"PayPal","PAYPAL           PURCHASE   ***********TIME",Uncategorized,-4.25,Posted
+2026-06-11,"Elka Bees Coffee & Wilsonvile or","SQ *ELKA BEES COFFEE &   Wilsonvile   OR",Coffee Shops,-25.56,Posted
+2026-06-11,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-13.81,Posted
+2026-06-11,"Elka Bees Coffee & Wilsonvile or","SQ *ELKA BEES COFFEE &   Wilsonvile   OR",Coffee Shops,-5.95,Posted
+2026-06-10,"Amazon","AMAZON MARKETPLA INTERNET   ***********4592",Shopping,-39.99,Posted
+2026-06-10,"Fred Meyer","FRED MEYER #0516         WILSONVILLE  OR",Groceries,-18.96,Posted
+2026-06-10,"Elka Bees Coffee & Wilsonvile or","SQ *ELKA BEES COFFEE &   Wilsonvile   OR",Coffee Shops,-12.42,Posted
+2026-06-09,"Stash Cash","Stash Cash Mngt  Stash      ***********TXLF",Investments,-30.00,Posted
+2026-06-09,"PayPal","PAYPAL           PURCHASE   ***********4D26",Uncategorized,-13.81,Posted
+2026-06-09,"PayPal","PAYPAL           PURCHASE   ***********RRIS",Uncategorized,-7.00,Posted
+2026-06-09,"Fabletics","IBI*FABLETICS.COM        844-3225384  CA",Clothing,-69.95,Posted
+2026-06-09,"The Edge Family Fi","8711 THE EDGE FAMILY FI  WILSONVILLE  OR",Entertainment,-50.00,Posted
+2026-06-09,"Elka Bees Coffee & Wilsonvile or","SQ *ELKA BEES COFFEE &   Wilsonvile   OR",Coffee Shops,-18.84,Posted
+2026-06-09,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2026-06-09,"Starbucks","STARBUCKS STORE 02916    WILSONVILLE  OR",Coffee Shops,-5.55,Posted
+2026-06-08,"Transfer to Venmo","VENMO            PAYMENT    ***********4950",Transfer,-60.00,Posted
+2026-06-08,"PayPal","PAYPAL           PURCHASE   ***********CART",Uncategorized,-54.60,Posted
+2026-06-08,"Py the Perfect Clean","PY*THE PERFECT CLEAN     480-907-3402 AZ",Home,-180.25,Posted
+2026-06-08,"Safeway","SAFEWAY #0285            WILSONVILLE  OR",Groceries,-91.54,Posted
+2026-06-08,"Savage X","PAYPAL *SAVAGE X         402-935-7733 CA",Clothing,-69.95,Posted
+2026-06-08,"Goodwill","GOODWILL OF WILSONVILLE  WILSONVILLE  OR",Shopping,-50.29,Posted
+2026-06-08,"Starbucks","STARBUCKS T3 NORTH PHX   PHOENIX      AZ",Coffee Shops,-30.13,Posted
+2026-06-08,"Elka Bees Coffee & Wilsonvile or","SQ *ELKA BEES COFFEE &   Wilsonvile   OR",Coffee Shops,-25.08,Posted
+2026-06-08,"7-Eleven","7-ELEVEN                 Sandy        OR",Gas,-22.57,Posted
+2026-06-08,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-22.31,Posted
+2026-06-08,"Netflix","Netflix.com              LOS GATOS    CA",Television,-21.55,Posted
+2026-06-08,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Electronics & Software,-21.26,Posted
+2026-06-08,"Dutch Bros Coffee","DUTCH BROS OR2205        SANDY        OR",Coffee Shops,-3.45,Posted
+2026-06-05,"Uber","PAYPAL           PURCHASE   ***********UBER",Rental Car & Taxi,-9.99,Posted
+2026-06-05,"Google Ewuk","GOOGLE           PURCHASE   ***********EWUK",Uncategorized,-8.40,Posted
+2026-06-05,"Bongiorno Bagels","TST*BONGIORNO BAGELS     Gilbert      AZ",Fast Food,-34.33,Posted
+2026-06-05,"Shell","SHELL SERVICE STATION    WILSONVILLE  OR",Gas,-26.19,Posted
+2026-06-05,"News Market","STLR NEWS MARKET ST2875  PHOENIX      AZ",Newspapers & Magazines,-23.00,Posted
+2026-06-05,"Wi-Fi Onboard","WIFIONBOARD ALASKA       WWW.WIFIONBOAIL",Internet,-8.00,Posted
+2026-06-05,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-3.55,Posted
+2026-06-04,"Jv's Barbershop","SQ *JV'S BARBERSHOP      GILBERT      AZ",Hair,-43.75,Posted
+2026-06-04,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-14.18,Posted
+2026-06-04,"Cooper Ray Ent","COOPER  RAY ENT          CHANDLER     AZ",Gas,-8.15,Posted
+2026-06-03,"Interest Paid","INTEREST PAID",Interest Income,0.03,Posted
+2026-06-03,"Taxes Withheld","TAX WITHHELD",Taxes,-0.01,Posted
+2026-06-03,"Stash","STASH CAPITAL (S ACH        ***********4939",Investments,-165.00,Posted
+2026-06-03,"PayPal","PAYPAL           PURCHASE   ***********PLUS",Uncategorized,-13.00,Posted
+2026-06-03,"Stash","Stash Financial  Stash Subs ***********14DB",Service Fee,-12.00,Posted
+2026-06-03,"Redbock Payroll","REDBOCK          PAYROLL    ***********9Q8J",Paycheck,3656.76,Posted
+2026-06-02,"Stash Cash Iiac","Stash Cash Mngt  Stash      ***********IIAC",Investments,-30.00,Posted
+2026-06-02,"PayPal","PAYPAL           PURCHASE   *********** INC",Uncategorized,-10.63,Posted
+2026-06-02,"Snip Its Gil","SNIP-ITS* SNIP-ITS-GIL   148-09638111 AZ",Hair,-44.89,Posted
+2026-06-01,"City of Chandler","CITY OF CHANDLER UTILITY    ***********1226",Utilities,-82.59,Posted
+2026-06-01,"Goodwill","GOODWILL #110204         CHANDLER     AZ",Shopping,-135.99,Posted
+2026-06-01,"Goodwill","GOODWILL #110204         CHANDLER     AZ",Shopping,-66.25,Posted
+2026-06-01,"Prime Video","Prime Video *WA8VK6LE3   888-802-3080 WA",Television,-26.56,Posted
+2026-06-01,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-25.95,Posted
+2026-06-01,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-18.31,Posted
+2026-06-01,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-15.71,Posted
+2026-06-01,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2026-06-01,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-11.97,Posted
+2026-06-01,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-3.18,Posted
+2026-05-29,"YNAB","YOU NEED A BUDGET LLC    YNAB.COM     UT",Financial,-116.74,Posted
+2026-05-29,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-68.79,Posted
+2026-05-29,"Circle K","CIRCLE K # 03462         CHANDLER     AZ",Gas,-32.44,Posted
+2026-05-29,"Excalidraw.com","PLUS.EXCALIDRAW.COM      BRNO",Electronics & Software,-7.07,Posted
+2026-05-29,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-4.01,Posted
+2026-05-28,"Goodwill","GOODWILL # 098           GILBERT      AZ",Shopping,-54.01,Posted
+2026-05-27,"PayPal","PAYPAL           PURCHASE   ***********OSTC",Uncategorized,-170.74,Posted
+2026-05-27,"Cox Communications","COX COMM PHX     PURCHASE   ***********l4JN",Utilities,-159.95,Posted
+2026-05-27,"Stash","STASH CAPITAL (S ACH        ***********8016",Investments,-100.00,Posted
+2026-05-27,"Stash Cash","Stash Cash Mngt  Stash      ***********9KQ8",Investments,-30.00,Posted
+2026-05-27,"Walgreens","WALGREENS STORE 1925 W   CHANDLER     AZ",Pharmacy,-26.70,Posted
+2026-05-26,"Aidvantage","ADVS ED SERV WEB STUDNTLOAN ***********KJQ1",Student Loan,-952.54,Posted
+2026-05-26,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-237.00,Posted
+2026-05-26,"PayPal","PAYPAL           PURCHASE   ***********CART",Uncategorized,-70.27,Posted
+2026-05-26,"PayPal","PAYPAL           PURCHASE   ***********1518",Uncategorized,-34.99,Posted
+2026-05-26,"PayPal","PAYPAL           PURCHASE   *********** X68",Uncategorized,-11.61,Posted
+2026-05-26,"PayPal","PAYPAL           PURCHASE   ***********CART",Uncategorized,-0.76,Posted
+2026-05-26,"Sun Devil Pool Supply","SUN DEVIL POOL SUPPLY    GILBERT      AZ",Home Supplies,-733.27,Posted
+2026-05-26,"Chevron","CHEVRON 0207556          CHANDLER     AZ",Gas,-100.00,Posted
+2026-05-26,"Fabletics","IBI*FABLETICS.COM        844-3225384  CA",Clothing,-80.67,Posted
+2026-05-26,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-45.23,Posted
+2026-05-26,"Hulu","Hulu                     SANTA MONICA CA",Television,-20.47,Posted
+2026-05-26,"Desert Breeze Railr Chandler","SQ *DESERT BREEZE RAILR  Chandler     AZ",Entertainment,-9.50,Posted
+2026-05-26,"Prime Video","Prime Video *NH69N1Z83   888-802-3080 WA",Television,-8.49,Posted
+2026-05-26,"Prime Video","Prime Video *Q12PM5NN3   888-802-3080 WA",Television,-4.24,Posted
+2026-05-26,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-4.05,Posted
+2026-05-26,"Quick Clean Car Wash","QUICK CLEAN CAR WASH     CHANDLER     AZ",Service & Parts,-4.00,Posted
+2026-05-26,"Transfer from Venmo","VENMO            CASHOUT    ***********9473",Transfer,548.53,Posted
+2026-05-22,"Blue Sky Pest Co","Blue Sky Pest Co WWP*Blue S ***********04f9",Uncategorized,-50.00,Posted
+2026-05-22,"Lowe's","LOWE'S #10               GILBERT      AZ",Home Improvement,-42.31,Posted
+2026-05-22,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-12.75,Posted
+2026-05-21,"USAA Property and Casualty Insurance","USAA P&C         BILLPYMNT  ***********1290",Financial,-108.19,Posted
+2026-05-20,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-10.47,Posted
+2026-05-20,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-7.38,Posted
+2026-05-20,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-7.36,Posted
+2026-05-20,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.38,Posted
+2026-05-20,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.26,Posted
+2026-05-20,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.21,Posted
+2026-05-20,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.97,Posted
+2026-05-20,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.86,Posted
+2026-05-20,"Redbock Payroll","REDBOCK          PAYROLL    ***********4Q8J",Paycheck,4534.71,Posted
+2026-05-19,"Stash Cash v Wu","Stash Cash Mngt  Stash      ***********V1WU",Investments,-30.00,Posted
+2026-05-19,"Rocket Money Premium","Rocket Money     Premium    ***********P0X9",Financial,-10.78,Posted
+2026-05-19,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-7.83,Posted
+2026-05-19,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.60,Posted
+2026-05-19,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.54,Posted
+2026-05-19,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.90,Posted
+2026-05-19,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.73,Posted
+2026-05-19,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.64,Posted
+2026-05-19,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.40,Posted
+2026-05-19,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.40,Posted
+2026-05-19,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-3.55,Posted
+2026-05-18,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2897.07,Posted
+2026-05-18,"PayPal","PAYPAL           PURCHASE   ***********OSTC",Uncategorized,-340.67,Posted
+2026-05-18,"Paddle","PADDLE.COM MARKE PURCHASE   ***********5682",Electronics & Software,-53.87,Posted
+2026-05-18,"Leslie's Pool Supplies","LESLIES POOL SPLY        GILBERT      AZ",Home Supplies,-90.84,Posted
+2026-05-18,"Circle K","CIRCLE K 08834           CHANDLER     AZ",Gas,-27.18,Posted
+2026-05-18,"Prime Video","Prime Video *5T8MU5CI3   888-802-3080 WA",Television,-26.56,Posted
+2026-05-18,"Fandango","PAYPAL *FANDANGO         402-935-7733 CA",Movies & Dvds,-26.56,Posted
+2026-05-18,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2026-05-18,"Amazon Grocery","Amazon Grocery Subscri   888-280-4331 WA",Groceries,-10.62,Posted
+2026-05-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-8.98,Posted
+2026-05-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-8.60,Posted
+2026-05-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-8.58,Posted
+2026-05-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-7.59,Posted
+2026-05-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-7.51,Posted
+2026-05-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.85,Posted
+2026-05-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.31,Posted
+2026-05-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.14,Posted
+2026-05-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.89,Posted
+2026-05-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.88,Posted
+2026-05-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.63,Posted
+2026-05-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.61,Posted
+2026-05-18,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.48,Posted
+2026-05-18,"Stash Cash Klymx","Stash Cash Mngt  Stash      2KLYMX2XN5ZCF3A",Income,150.00,Posted
+2026-05-15,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-238.18,Posted
+2026-05-15,"USAA Credit Card","USAA CREDIT CARD PAYMENT    ***********5021",Credit Card Payment,-139.00,Posted
+2026-05-15,"Bongiorno Bagels","TST*BONGIORNO BAGELS     Gilbert      AZ",Fast Food,-33.12,Posted
+2026-05-15,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-21.77,Posted
+2026-05-15,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-15.41,Posted
+2026-05-15,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.48,Posted
+2026-05-14,"PayPal","PAYPAL           PURCHASE   ***********TIME",Uncategorized,-4.25,Posted
+2026-05-14,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-43.73,Posted
+2026-05-13,"PayPal","PAYPAL           PURCHASE   ***********.HBO",Uncategorized,-19.66,Posted
+2026-05-13,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-60.22,Posted
+2026-05-13,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-20.46,Posted
+2026-05-12,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-34.74,Posted
+2026-05-12,"Stash Cash X en","Stash Cash Mngt  Stash      ***********X4EN",Investments,-30.00,Posted
+2026-05-12,"Jv's Barbershop","SQ *JV'S BARBERSHOP      GILBERT      AZ",Hair,-42.00,Posted
+2026-05-12,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.48,Posted
+2026-05-11,"PayPal","PAYPAL           PURCHASE   ***********OSTC",Uncategorized,-282.81,Posted
+2026-05-11,"PayPal","PAYPAL           PURCHASE   ***********3C21",Uncategorized,-13.81,Posted
+2026-05-11,"PayPal","PAYPAL           PURCHASE   ***********RRIS",Uncategorized,-7.00,Posted
+2026-05-11,"Microsoft","MICROSOFT*MICROSOFT 36   REDMOND      WA",Electronics & Software,-129.99,Posted
+2026-05-11,"Eraser Io Ioca","ERASER.IO                WWW.ERASER.IOCA",Electronics & Software,-120.00,Posted
+2026-05-11,"Fabletics","IBI*FABLETICS.COM        844-3225384  CA",Clothing,-69.95,Posted
+2026-05-11,"Savage X","PAYPAL *SAVAGE X         402-935-7733 CA",Clothing,-59.95,Posted
+2026-05-11,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-59.64,Posted
+2026-05-11,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-48.51,Posted
+2026-05-11,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2026-05-11,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-13.81,Posted
+2026-05-11,"Circle K","CIRCLE K # 03462         CHANDLER     AZ",Gas,-8.35,Posted
+2026-05-11,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-7.73,Posted
+2026-05-11,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.22,Posted
+2026-05-11,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.84,Posted
+2026-05-11,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.84,Posted
+2026-05-11,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.61,Posted
+2026-05-11,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.55,Posted
+2026-05-08,"Py the Perfect Clean","PY*THE PERFECT CLEAN     623-853-7009 AZ",Home,-180.25,Posted
+2026-05-08,"Coach","COACH 3703               Chandler     AZ",Shopping,-154.26,Posted
+2026-05-08,"The Perfect Clean Theperfectcleaz","THE PERFECT CLEAN        THEPERFECTCLEAZ",Home,-40.00,Posted
+2026-05-08,"Fandango","PAYPAL *FANDANGO         402-935-7733 CA",Movies & Dvds,-31.88,Posted
+2026-05-08,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Electronics & Software,-21.26,Posted
+2026-05-08,"Apple","APPLE COM                CUPERTINO    CA",Electronics & Software,-20.19,Posted
+2026-05-08,"Fandango","PAYPAL *FANDANGO         402-935-7733 CA",Movies & Dvds,-15.93,Posted
+2026-05-08,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-4.55,Posted
+2026-05-07,"PayPal","PAYPAL           PURCHASE   ***********EDIN",Uncategorized,-191.24,Posted
+2026-05-07,"PayPal","PAYPAL           PURCHASE   *********** INC",Uncategorized,-11.72,Posted
+2026-05-07,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-47.48,Posted
+2026-05-07,"Fandango","PAYPAL *FANDANGO         402-935-7733 CA",Movies & Dvds,-26.56,Posted
+2026-05-07,"Netflix","NETFLIX.COM              NETFLIX.COM  CA",Television,-21.55,Posted
+2026-05-06,"Chevron","CHEVRON 0207556          CHANDLER     AZ",Gas,-14.17,Posted
+2026-05-06,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.52,Posted
+2026-05-06,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.47,Posted
+2026-05-06,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-4.55,Posted
+2026-05-06,"Redbock Payroll","REDBOCK          PAYROLL    ***********1Q8J",Paycheck,4534.71,Posted
+2026-05-05,"Stash","STASH CAPITAL (S ACH        ***********3296",Investments,-165.00,Posted
+2026-05-05,"Stash Cash","Stash Cash Mngt  Stash      ***********V9P0",Investments,-30.00,Posted
+2026-05-05,"Stash","Stash Financial  Stash Subs ***********14AB",Service Fee,-12.00,Posted
+2026-05-05,"Uber","PAYPAL           PURCHASE   ***********UBER",Rental Car & Taxi,-9.99,Posted
+2026-05-05,"Google","GOOGLE           PURCHASE   ***********W41B",Uncategorized,-8.40,Posted
+2026-05-05,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-8.11,Posted
+2026-05-04,"PayPal","PAYPAL           PURCHASE   ***********PLUS",Uncategorized,-13.00,Posted
+2026-05-04,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-241.32,Posted
+2026-05-04,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-120.77,Posted
+2026-05-04,"Aragon Ai Headshots","ARAGON AI HEADSHOTS      ARAGON.AI    CA",Entertainment,-35.00,Posted
+2026-05-04,"In-N-Out Burger","IN-N-OUT CHANDLER 2      CHANDLER     AZ",Fast Food,-29.89,Posted
+2026-05-04,"Fandango","PAYPAL *FANDANGO         402-935-7733 CA",Movies & Dvds,-21.25,Posted
+2026-05-04,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2026-05-04,"Desert Breeze Railr Chandler","SQ *DESERT BREEZE RAILR  Chandler     AZ",Entertainment,-8.50,Posted
+2026-05-04,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.98,Posted
+2026-05-04,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-2.01,Posted
+2026-05-01,"Interest Paid","INTEREST PAID",Interest Income,0.02,Posted
+2026-05-01,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-180.70,Posted
+2026-05-01,"Savage X","PAYPAL *SAVAGE X         402-935-7733 CA",Clothing,-22.04,Posted
+2026-05-01,"Fandango","PAYPAL *FANDANGO         402-935-7733 CA",Movies & Dvds,-21.25,Posted
+2026-05-01,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-7.85,Posted
+2026-05-01,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.97,Posted
+2026-04-30,"City of Chandler","CITY OF CHANDLER UTILITY    ***********9285",Utilities,-82.59,Posted
+2026-04-29,"ARCO","ARCO 918050              CHANDLER     AZ",Gas,-114.57,Posted
+2026-04-29,"Vudu","PAYPAL *VUDU LLC         402-935-7733 CA",Movies & Dvds,-26.56,Posted
+2026-04-29,"Excalidraw.com","PLUS.EXCALIDRAW.COM      BRNO",Electronics & Software,-7.07,Posted
+2026-04-29,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.84,Posted
+2026-04-29,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-4.30,Posted
+2026-04-28,"Stash","STASH CAPITAL (S ACH        ***********8890",Investments,-100.00,Posted
+2026-04-28,"Stash Cash Udy","Stash Cash Mngt  Stash      ***********UDY0",Investments,-30.00,Posted
+2026-04-28,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.40,Posted
+2026-04-27,"PayPal","PAYPAL           PURCHASE   ***********OSTC",Uncategorized,-349.07,Posted
+2026-04-27,"Cox Communications","COX COMM PHX     PURCHASE   ***********DwBU",Utilities,-149.95,Posted
+2026-04-27,"PayPal","PAYPAL           PURCHASE   ***********1518",Uncategorized,-34.99,Posted
+2026-04-27,"PayPal","PAYPAL           PURCHASE   *********** BB8",Uncategorized,-11.61,Posted
+2026-04-27,"Agh Hosp","AGH HOSP MESA FW         MESA         AZ",Doctor,-83.22,Posted
+2026-04-27,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-75.24,Posted
+2026-04-27,"Circle K","CIRCLE K # 03462         CHANDLER     AZ",Gas,-35.69,Posted
+2026-04-27,"Vudu","PAYPAL *VUDU LLC         402-935-7733 CA",Movies & Dvds,-21.25,Posted
+2026-04-27,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-15.96,Posted
+2026-04-27,"Prime Video","Prime Video *BY78E4RO0   888-802-3080 WA",Television,-15.93,Posted
+2026-04-27,"Prime Video","Prime Video *BS8R52Q01   888-802-3080 WA",Television,-15.93,Posted
+2026-04-27,"Goodwill","GOODWILL # 098           GILBERT      AZ",Shopping,-15.71,Posted
+2026-04-27,"Prime Video","Prime Video *BS89A5MA1   888-802-3080 WA",Television,-12.75,Posted
+2026-04-27,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-7.41,Posted
+2026-04-27,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.54,Posted
+2026-04-27,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.45,Posted
+2026-04-27,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-3.18,Posted
+2026-04-24,"Transfer to Venmo","VENMO            PAYMENT    ***********2502",Transfer,-1000.00,Posted
+2026-04-24,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-247.00,Posted
+2026-04-24,"Blue Sky Pest Co","Blue Sky Pest Co WWP*Blue S ***********c498",Uncategorized,-50.00,Posted
+2026-04-24,"Vudu","PAYPAL *VUDU LLC         402-935-7733 CA",Movies & Dvds,-21.25,Posted
+2026-04-24,"Hulu","Hulu                     877-8244858  CA",Television,-20.47,Posted
+2026-04-24,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-4.55,Posted
+2026-04-24,"Transfer from Venmo","VENMO            CASHOUT    ***********8371",Transfer,250.00,Posted
+2026-04-23,"Transfer to Venmo","VENMO            PAYMENT    ***********2168",Transfer,-250.00,Posted
+2026-04-23,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.98,Posted
+2026-04-22,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-12.75,Posted
+2026-04-22,"Hulu","Hulu                     877-8244858  CA",Television,-0.50,Posted
+2026-04-22,"Redbock Payroll","REDBOCK          PAYROLL    ***********3Q8J",Paycheck,4534.71,Posted
+2026-04-21,"USAA Property and Casualty Insurance","USAA P&C         AUTOPAY    ***********4749",Financial,-108.19,Posted
+2026-04-21,"Stash Cash","Stash Cash Mngt  Stash      ***********L8M1",Investments,-30.00,Posted
+2026-04-21,"Circle K","CIRCLE K # 03462         CHANDLER     AZ",Gas,-100.00,Posted
+2026-04-21,"Jv's Barbershop","SQ *JV'S BARBERSHOP      GILBERT      AZ",Hair,-35.00,Posted
+2026-04-21,"Claude.ai Subscription","CLAUDE.AI SUBSCRIPTION   ANTHROPIC.COMCA",Electronics & Software,-21.56,Posted
+2026-04-21,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.40,Posted
+2026-04-21,"Circle K","CIRCLE K # 03462         CHANDLER     AZ",Gas,-5.10,Posted
+2026-04-21,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-3.55,Posted
+2026-04-20,"Transfer to Venmo","VENMO            PAYMENT    ***********2905",Transfer,-500.00,Posted
+2026-04-20,"Rocket Money Premium","Rocket Money     Premium    ***********N6E0",Financial,-10.78,Posted
+2026-04-20,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-33.78,Posted
+2026-04-20,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-16.98,Posted
+2026-04-20,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-15.96,Posted
+2026-04-20,"Walgreens","WALGREENS STORE 1985 E   CHANDLER     AZ",Pharmacy,-14.40,Posted
+2026-04-20,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.99,Posted
+2026-04-20,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.95,Posted
+2026-04-20,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.92,Posted
+2026-04-20,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.55,Posted
+2026-04-20,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.47,Posted
+2026-04-17,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-74.40,Posted
+2026-04-17,"Bongiorno Bagels","TST*BONGIORNO BAGELS     Gilbert      AZ",Fast Food,-25.98,Posted
+2026-04-17,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2026-04-17,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.34,Posted
+2026-04-17,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.80,Posted
+2026-04-17,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.77,Posted
+2026-04-17,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.68,Posted
+2026-04-17,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.52,Posted
+2026-04-16,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2897.07,Posted
+2026-04-16,"PayPal","PAYPAL           PURCHASE   *********** INC",Uncategorized,-5.67,Posted
+2026-04-16,"PayPal","PAYPAL           PURCHASE   ***********TIME",Uncategorized,-4.25,Posted
+2026-04-16,"Vudu","PAYPAL *VUDU LLC         402-935-7733 CA",Movies & Dvds,-15.93,Posted
+2026-04-16,"Amazon Grocery","Amazon Grocery Subscri   888-280-4331 WA",Groceries,-10.62,Posted
+2026-04-16,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.13,Posted
+2026-04-16,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.61,Posted
+2026-04-16,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.59,Posted
+2026-04-16,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.56,Posted
+2026-04-16,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.50,Posted
+2026-04-16,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.49,Posted
+2026-04-16,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.44,Posted
+2026-04-15,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-180.69,Posted
+2026-04-15,"Republic Services","REPUBLICSERVICES RSIBILLPAY ***********5169",Utilities,-162.40,Posted
+2026-04-15,"USAA Credit Card","USAA CREDIT CARD PAYMENT    ***********5021",Credit Card Payment,-149.00,Posted
+2026-04-14,"Stash Cash","Stash Cash Mngt  Stash      ***********W7N7",Investments,-30.00,Posted
+2026-04-14,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.02,Posted
+2026-04-13,"Stash","STASH CAPITAL (S ACH        ***********5385",Investments,-400.00,Posted
+2026-04-13,"PayPal","PAYPAL           PURCHASE   ***********OSTC",Uncategorized,-224.89,Posted
+2026-04-13,"PayPal","PAYPAL           PURCHASE   ***********CART",Uncategorized,-115.31,Posted
+2026-04-13,"PayPal","PAYPAL           PURCHASE   ***********.HBO",Uncategorized,-19.66,Posted
+2026-04-13,"Third Party Service","THIRD PARTY MVS SERVICE  CHANDLER     AZ",Uncategorized,-137.66,Posted
+2026-04-13,"Savage X","PAYPAL *SAVAGE X         402-935-7733 CA",Clothing,-59.95,Posted
+2026-04-13,"Prime Video","Prime Video *B77RC3XC1   888-802-3080 WA",Television,-15.93,Posted
+2026-04-13,"Prime Video","Prime Video *B75IT4LZ0   888-802-3080 WA",Television,-15.93,Posted
+2026-04-13,"Prime Video","Prime Video *B77DM8XR1   888-802-3080 WA",Television,-15.93,Posted
+2026-04-13,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-13.81,Posted
+2026-04-13,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.52,Posted
+2026-04-13,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-5.05,Posted
+2026-04-10,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-34.10,Posted
+2026-04-10,"The Perfect Clean 480-9073402 Az via Payrix","PY *The Perfect Clean    480-9073402  AZ",Home,-235.87,Posted
+2026-04-09,"PayPal","PAYPAL           PURCHASE   ***********3CBD",Uncategorized,-13.81,Posted
+2026-04-09,"PayPal","PAYPAL           PURCHASE   ***********RRIS",Uncategorized,-7.00,Posted
+2026-04-09,"Fabletics","IBI*FABLETICS.COM        844-3225384  CA",Clothing,-69.95,Posted
+2026-04-09,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2026-04-09,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-7.68,Posted
+2026-04-09,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.58,Posted
+2026-04-09,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.92,Posted
+2026-04-09,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.91,Posted
+2026-04-09,"Redbock Payroll","REDBOCK          PAYROLL    ***********9Q8J",Paycheck,4534.70,Posted
+2026-04-08,"Transfer to Venmo","VENMO            PAYMENT    ***********3412",Transfer,-500.00,Posted
+2026-04-08,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-38.46,Posted
+2026-04-08,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Electronics & Software,-21.26,Posted
+2026-04-08,"Apple","APPLE COM                CUPERTINO    CA",Electronics & Software,-20.19,Posted
+2026-04-08,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.45,Posted
+2026-04-08,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.82,Posted
+2026-04-08,"Transfer from Venmo","VENMO            CASHOUT    ***********7896",Transfer,250.00,Posted
+2026-04-07,"Stash Cash","Stash Cash Mngt  Stash      ***********RX2K",Investments,-30.00,Posted
+2026-04-07,"Netflix","NETFLIX.COM              NETFLIX.COM  CA",Television,-19.39,Posted
+2026-04-06,"PayPal","PAYPAL           PURCHASE   ***********OSTC",Uncategorized,-263.26,Posted
+2026-04-06,"PayPal","PAYPAL           PURCHASE   ***********OSTC",Uncategorized,-61.04,Posted
+2026-04-06,"PayPal","PAYPAL           PURCHASE   ***********EATS",Uncategorized,-53.44,Posted
+2026-04-06,"PayPal","PAYPAL           PURCHASE   ***********EATS",Uncategorized,-11.36,Posted
+2026-04-06,"Uber","PAYPAL           PURCHASE   ***********UBER",Rental Car & Taxi,-9.99,Posted
+2026-04-06,"Google","GOOGLE           PURCHASE   ***********E318",Uncategorized,-8.40,Posted
+2026-04-06,"Foot Locker","PAYPAL *FOOTLOCKER       402-935-7733 WI",Clothing,-154.14,Posted
+2026-04-06,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-29.69,Posted
+2026-04-06,"Prime Video","Prime Video *BG6E86SV0   888-802-3080 WA",Television,-21.25,Posted
+2026-04-06,"Walgreens","WALGREENS STORE 1925 W   CHANDLER     AZ",Pharmacy,-6.09,Posted
+2026-04-06,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.09,Posted
+2026-04-06,"Anthropic","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.95,Posted
+2026-04-06,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-4.55,Posted
+2026-04-03,"Interest Paid","INTEREST PAID",Interest Income,0.04,Posted
+2026-04-03,"Taxes Withheld","TAX WITHHELD",Taxes,-0.01,Posted
+2026-04-03,"Stash","STASH CAPITAL (S ACH        ***********7977",Investments,-165.00,Posted
+2026-04-03,"PayPal","PAYPAL           PURCHASE   ***********PLUS",Uncategorized,-13.00,Posted
+2026-04-03,"Stash","Stash Financial  Stash Subs ***********D4B3",Service Fee,-12.00,Posted
+2026-04-03,"Circle K","CIRCLE K # 03462         CHANDLER     AZ",Gas,-32.44,Posted
+2026-04-03,"Vudu","PAYPAL *VUDU LLC         402-935-7733 CA",Movies & Dvds,-21.25,Posted
+2026-04-03,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-14.87,Posted
+2026-04-02,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.93,Posted
+2026-04-02,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.31,Posted
+2026-04-02,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.54,Posted
+2026-04-02,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.40,Posted
+2026-04-01,"Trueclassictees Trueclassicteca","SP TRUECLASSICTEES.C     TRUECLASSICTECA",Clothing,-139.80,Posted
+2026-04-01,"Emissions Go Phoenix","AZ Vehicle Emissions Go  Phoenix      AZ",Service & Parts,-16.15,Posted
+2026-04-01,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2026-04-01,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.80,Posted
+2026-04-01,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.08,Posted
+2026-04-01,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.08,Posted
+2026-04-01,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.96,Posted
+2026-04-01,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.79,Posted
+2026-03-31,"Stash Cash Ewq","Stash Cash Mngt  Stash      ***********5EWQ",Investments,-30.00,Posted
+2026-03-31,"Jv's Barbershop","SQ *JV'S BARBERSHOP      GILBERT      AZ",Hair,-41.25,Posted
+2026-03-31,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.45,Posted
+2026-03-31,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.23,Posted
+2026-03-31,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.12,Posted
+2026-03-30,"Transfer to Venmo","VENMO            PAYMENT    ***********2944",Transfer,-1000.00,Posted
+2026-03-30,"City of Chandler","CITY OF CHANDLER UTILITY    ***********3946",Utilities,-76.73,Posted
+2026-03-30,"Agh Ed Germann","AGH ED GERMANN           CHANDLER     AZ",Doctor,-150.00,Posted
+2026-03-30,"Uptown Jungle","Uptown Jungle Chandler   Chandler     AZ",Amusement,-54.98,Posted
+2026-03-30,"Walgreens","WALGREENS STORE 1985 E   CHANDLER     AZ",Pharmacy,-22.53,Posted
+2026-03-30,"Walgreens","WALGREENS STORE 1985 E   CHANDLER     AZ",Pharmacy,-20.98,Posted
+2026-03-30,"Uptown Jungle","Uptown Jungle Chandler   Chandler     AZ",Amusement,-11.86,Posted
+2026-03-30,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.82,Posted
+2026-03-30,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.76,Posted
+2026-03-30,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.76,Posted
+2026-03-27,"Cox Communications","COX COMM PHX     PURCHASE   ***********BtyO",Utilities,-239.95,Posted
+2026-03-27,"Tr Cl Tees","PAYPAL *TR CL TEES       402-935-7733 CA",Clothing,-127.03,Posted
+2026-03-27,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-60.63,Posted
+2026-03-27,"Bongiorno Bagels","TST*BONGIORNO BAGELS     Gilbert      AZ",Fast Food,-34.33,Posted
+2026-03-27,"Marshalls","MARSHALLS #205           GILBERT      AZ",Shopping,-21.54,Posted
+2026-03-27,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.08,Posted
+2026-03-27,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-3.18,Posted
+2026-03-26,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-201.38,Posted
+2026-03-26,"Stash","STASH CAPITAL (S ACH        ***********1150",Investments,-100.00,Posted
+2026-03-26,"PayPal Purchase","PAYPAL           INST XFER  ***********1518",Uncategorized,-34.99,Posted
+2026-03-26,"PayPal Purchase","PAYPAL           INST XFER  *********** 6C3",Uncategorized,-11.61,Posted
+2026-03-26,"Savage X","PAYPAL *SAVAGE X         402-935-7733 CA",Clothing,-53.16,Posted
+2026-03-26,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.57,Posted
+2026-03-26,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.55,Posted
+2026-03-26,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.42,Posted
+2026-03-25,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-29.72,Posted
+2026-03-25,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-9.04,Posted
+2026-03-25,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.92,Posted
+2026-03-25,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.91,Posted
+2026-03-25,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.82,Posted
+2026-03-25,"Redbock Payroll","REDBOCK          PAYROLL    ***********5Q8J",Paycheck,4534.71,Posted
+2026-03-24,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-223.00,Posted
+2026-03-24,"Blue Sky Pest Co","Blue Sky Pest Co WWP*Blue S ***********145d",Uncategorized,-50.00,Posted
+2026-03-24,"Stash Cash","Stash Cash Mngt  Stash      ***********L058",Investments,-30.00,Posted
+2026-03-24,"Hims & Hers Health","HIMS & HERS HEALTH       FORHIMS.COM  CA",Pharmacy,-234.00,Posted
+2026-03-24,"Circle K","CIRCLE K # 03462         CHANDLER     AZ",Gas,-51.96,Posted
+2026-03-24,"Hulu","Hulu                     877-8244858  CA",Television,-12.93,Posted
+2026-03-24,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.75,Posted
+2026-03-23,"USAA Property and Casualty Insurance","USAA P&C         AUTOPAY    ***********4749",Financial,-108.19,Posted
+2026-03-23,"Goodwill","GOODWILL #110204         CHANDLER     AZ",Shopping,-107.45,Posted
+2026-03-23,"Dutchmans County Apache Juncti","TST*DUTCHMANS COUNTY BB  Apache JunctiAZ",Restaurants,-87.14,Posted
+2026-03-23,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-52.06,Posted
+2026-03-23,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Electronics & Software,-16.59,Posted
+2026-03-23,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-12.75,Posted
+2026-03-23,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.76,Posted
+2026-03-23,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.20,Posted
+2026-03-23,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.10,Posted
+2026-03-23,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.03,Posted
+2026-03-23,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.64,Posted
+2026-03-20,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.13,Posted
+2026-03-19,"Rocket Money Premium","Rocket Money     Premium    ***********P8I1",Financial,-10.78,Posted
+2026-03-19,"PayPal Purchase","PAYPAL           INST XFER  ***********TIME",Uncategorized,-4.25,Posted
+2026-03-19,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.52,Posted
+2026-03-19,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.43,Posted
+2026-03-18,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.41,Posted
+2026-03-17,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-176.84,Posted
+2026-03-17,"Stash Cash","Stash Cash Mngt  Stash      ***********VLV5",Investments,-30.00,Posted
+2026-03-17,"Claude.ai Subscription","CLAUDE.AI SUBSCRIPTION   ANTHROPIC.COMCA",Electronics & Software,-21.56,Posted
+2026-03-17,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2026-03-16,"LAKEVIEW LN SRV  MTG PYMT   ***********8233","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Category Pending,-2897.07,Posted
+2026-03-16,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-254.14,Posted
+2026-03-16,"Hilton Garden Inn","HILTON GARDEN INN        623-4718400  AZ",Hotel,-398.83,Posted
+2026-03-16,"Phoenix Zoo","PHOENIX ZOO              602-286-3800 AZ",Entertainment,-264.60,Posted
+2026-03-16,"DC STEAKHOUSE            CHANDLER     AZ","DC STEAKHOUSE            CHANDLER     AZ",Category Pending,-258.61,Posted
+2026-03-16,"The Hidden House","THE HIDDEN HOUSE         CHANDLER     AZ",Restaurants,-155.72,Posted
+2026-03-16,"Third Party Service","THIRD PARTY MVS SERVICE  CHANDLER     AZ",Uncategorized,-65.00,Posted
+2026-03-16,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-30.58,Posted
+2026-03-16,"Phxaz the Garden","TST* PHXAZ - THE GARDEN  CHANDLER     AZ",Restaurants,-23.71,Posted
+2026-03-16,"Kindle","Kindle Svcs*BD74142Z2    888-802-3080 WA",Books,-12.12,Posted
+2026-03-16,"Amazon Grocery","Amazon Grocery Subscri   888-280-4331 WA",Groceries,-10.62,Posted
+2026-03-16,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.70,Posted
+2026-03-16,"Coca Cola","COCA COLA TEMPE AZ       TEMPE        AZ",Food & Dining,-5.10,Posted
+2026-03-13,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-32.68,Posted
+2026-03-13,"PayPal Purchase","PAYPAL           INST XFER  ***********.HBO",Uncategorized,-19.66,Posted
+2026-03-13,"USAA Credit Card","USAA CREDIT CARD PAYMENT",Credit Card Payment,-2000.00,Posted
+2026-03-13,"Amazon","AMAZON.COM               SEATTLE      WA",Shopping,-62.71,Posted
+2026-03-12,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.39,Posted
+2026-03-11,"Stash","STASH CAPITAL (S ACH        ***********1011",Investments,-50.00,Posted
+2026-03-11,"Savage X","PAYPAL *SAVAGE X         402-935-7733 CA",Clothing,-59.95,Posted
+2026-03-11,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-13.81,Posted
+2026-03-11,"Redbock Payroll","REDBOCK          PAYROLL    ***********7Q8J",Paycheck,4891.55,Posted
+2026-03-10,"Stash Cash","Stash Cash Mngt  Stash      ***********RF6V",Investments,-30.00,Posted
+2026-03-10,"Lawdistrict","LAWDISTRICT18553022149   855-3022149  FL",Business Services,-1.95,Posted
+2026-03-09,"Transfer to Venmo","VENMO            PAYMENT    ***********8776",Transfer,-250.00,Posted
+2026-03-09,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-21.06,Posted
+2026-03-09,"PayPal Purchase","PAYPAL           INST XFER  ***********271A",Uncategorized,-13.81,Posted
+2026-03-09,"PayPal Purchase","PAYPAL           INST XFER  ***********RRIS",Uncategorized,-7.00,Posted
+2026-03-09,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-4.42,Posted
+2026-03-09,"Trader Joe's","TRADER JOE S #28 1779 E  GILBERT      AZ",Groceries,-281.60,Posted
+2026-03-09,"Shop.mlb.co","PAYPAL *SHOP.MLB.CO      402-935-7733 FL",Shopping,-130.08,Posted
+2026-03-09,"Country Place","FCB*COUNTRY PLACE A      866.800.4656 NE",Mortgage & Rent,-117.76,Posted
+2026-03-09,"Dick's Sporting Goods","Dicks Sporting Goods     Gilbert      AZ",Sporting Goods,-71.00,Posted
+2026-03-09,"Fabletics","IBI*FABLETICS.COM        844-3225384  CA",Clothing,-69.95,Posted
+2026-03-09,"Vudu","PAYPAL *VUDU LLC         402-935-7733 CA",Movies & Dvds,-26.56,Posted
+2026-03-09,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Electronics & Software,-21.26,Posted
+2026-03-09,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-20.19,Posted
+2026-03-09,"Netflix","Netflix.com              netflix.com  CA",Television,-19.39,Posted
+2026-03-09,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2026-03-06,"Wa Chandler Az","WA552506                 CHANDLER     AZ",Cash,-300.00,Posted
+2026-03-06,"Savage X","PAYPAL *SAVAGE X         402-935-7733 CA",Clothing,-42.99,Posted
+2026-03-06,"Bongiorno Bagels","TST*BONGIORNO BAGELS     Gilbert      AZ",Fast Food,-31.18,Posted
+2026-03-05,"Google Apps Comme","GOOGLE           APPS_COMME ***********R8YG",Entertainment,-8.40,Posted
+2026-03-05,"Foot Locker","Foot Locker              800-9916815  NY",Clothing,-154.14,Posted
+2026-03-04,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-244.48,Posted
+2026-03-04,"Amazon","AMAZON MARKETPLA INTERNET   ***********2378",Shopping,-19.30,Posted
+2026-03-04,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********3R67",Paycheck,4748.49,Posted
+2026-03-03,"Interest Paid","INTEREST PAID",Interest Income,0.03,Posted
+2026-03-03,"Taxes Withheld","TAX WITHHELD",Taxes,-0.01,Posted
+2026-03-03,"Transfer to Venmo","VENMO            PAYMENT    ***********2719",Transfer,-754.06,Posted
+2026-03-03,"Stash","STASH CAPITAL (S ACH        ***********1244",Investments,-165.00,Posted
+2026-03-03,"Stash Cash","Stash Cash Mngt  Stash      ***********RXDK",Investments,-30.00,Posted
+2026-03-03,"Amazon","AMAZON.COM SERVI INTERNET   ***********1998",Shopping,-25.50,Posted
+2026-03-03,"Disney+","PAYPAL           INST XFER  ***********PLUS",Television,-13.00,Posted
+2026-03-03,"Stash","Stash Financial  Stash Subs ***********F46F",Service Fee,-12.00,Posted
+2026-03-03,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Gas,-29.73,Posted
+2026-03-03,"Transfer from Venmo","VENMO            CASHOUT    ***********3573",Transfer,100.00,Posted
+2026-03-02,"City of Chandler","CITY OF CHANDLER UTILITY    ***********4944",Utilities,-69.27,Posted
+2026-03-02,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-38.13,Posted
+2026-03-02,"Amazon","AMAZON.COM SERVI INTERNET   ***********8396",Shopping,-24.34,Posted
+2026-03-02,"Amazon","AMAZON MARKETPLA INTERNET   ***********6626",Shopping,-20.19,Posted
+2026-03-02,"Amazon","AMAZON.COM SERVI INTERNET   ***********1160",Shopping,-20.17,Posted
+2026-03-02,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-10.90,Posted
+2026-03-02,"Amazon","AMAZON MARKETPLA INTERNET   ***********9894",Shopping,-9.55,Posted
+2026-03-02,"Shop.mlb.co","PAYPAL *SHOP.MLB.CO      402-935-7733 FL",Shopping,-127.08,Posted
+2026-03-02,"Chases Diner","TST*CHASES DINER         Chandler     AZ",Restaurants,-58.25,Posted
+2026-03-02,"Bongiorno Bagels","TST*BONGIORNO BAGELS     Gilbert      AZ",Fast Food,-31.18,Posted
+2026-03-02,"Prime Video","Prime Video *B91PG10M0   888-802-3080 WA",Television,-15.93,Posted
+2026-03-02,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2026-02-27,"Cox Communications","COX COMM PHX     PURCHASE   ***********GIeG",Utilities,-209.95,Posted
+2026-02-27,"Transfer to Venmo","VENMO            PAYMENT    ***********9033",Transfer,-109.65,Posted
+2026-02-27,"Amazon","AMAZON MARKETPLA INTERNET   ***********2186",Shopping,-27.62,Posted
+2026-02-27,"Goodwill","GOODWILL #110204         CHANDLER     AZ",Shopping,-16.97,Posted
+2026-02-26,"Stash","STASH CAPITAL (S ACH        ***********0151",Investments,-100.00,Posted
+2026-02-26,"PayPal Purchase","PAYPAL           INST XFER  ***********1518",Uncategorized,-34.99,Posted
+2026-02-26,"Amazon","AMAZON MARKETPLA INTERNET   ***********1264",Shopping,-29.75,Posted
+2026-02-26,"PayPal Purchase","PAYPAL           INST XFER  *********** 609",Uncategorized,-11.61,Posted
+2026-02-26,"Apple","APPLE COM                CUPERTINO    CA",Electronics & Software,-3.18,Posted
+2026-02-25,"Amazon","AMAZON MARKETPLA INTERNET   ***********8272",Shopping,-46.66,Posted
+2026-02-25,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-88.23,Posted
+2026-02-24,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-227.00,Posted
+2026-02-24,"Amazon","AMAZON.COM SERVI INTERNET   ***********7092",Shopping,-67.40,Posted
+2026-02-24,"Amazon","AMAZON.COM SERVI INTERNET   ***********0906",Shopping,-53.14,Posted
+2026-02-24,"Stash Cash","Stash Cash Mngt  Stash      ***********7U5X",Investments,-30.00,Posted
+2026-02-24,"System .com","SYSTEM76.COM_K2K8KV      SYSTEM76.COM CO",Electronics & Software,-1976.25,Posted
+2026-02-24,"Jv's Barbershop","SQ *JV'S BARBERSHOP      GILBERT      AZ",Hair,-41.25,Posted
+2026-02-24,"Hulu","Hulu                     877-8244858  CA",Television,-12.93,Posted
+2026-02-23,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-234.48,Posted
+2026-02-23,"USAA Property and Casualty Insurance","USAA P&C         AUTOPAY    ***********4749",Financial,-108.19,Posted
+2026-02-23,"Blue Sky Pest Co","Blue Sky Pest Co WWP*Blue S ***********542f",Uncategorized,-50.00,Posted
+2026-02-23,"Chandler","WW553726                 CHANDLER     AZ",Cash,-300.00,Posted
+2026-02-23,"Chandler","WW553726                 CHANDLER     AZ",Cash,-300.00,Posted
+2026-02-23,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-12.75,Posted
+2026-02-23,"Mobile Deposit","DEPOSIT@MOBILE",Income,3588.31,Posted
+2026-02-19,"Amazon","AMAZON.COM SERVI INTERNET   ***********8174",Shopping,-44.65,Posted
+2026-02-19,"Rocket Money Premium","Rocket Money     Premium    ***********R0M5",Financial,-10.78,Posted
+2026-02-19,"PayPal Purchase","PAYPAL           INST XFER  ***********TIME",Uncategorized,-4.25,Posted
+2026-02-18,"Paddle","PADDLE.COM MARKE IAT PAYPAL ***********0629",Electronics & Software,-53.87,Posted
+2026-02-18,"Stash Cash","Stash Cash Mngt  Stash      ***********OK5P",Investments,-30.00,Posted
+2026-02-18,"Amazon","AMAZON.COM SERVI INTERNET   ***********6154",Shopping,-19.95,Posted
+2026-02-18,"Amazon","AMAZON.COM SERVI INTERNET   ***********7960",Shopping,-11.14,Posted
+2026-02-18,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********8R67",Paycheck,3513.13,Posted
+2026-02-17,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2840.68,Posted
+2026-02-17,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-165.40,Posted
+2026-02-17,"USAA Credit Card","USAA CREDIT CARD PAYMENT    ***********5021",Credit Card Payment,-143.00,Posted
+2026-02-17,"PayPal Purchase","PAYPAL           INST XFER  ***********CART",Uncategorized,-68.18,Posted
+2026-02-17,"Amazon","AMAZON.COM SERVI INTERNET   ***********2350",Shopping,-38.86,Posted
+2026-02-17,"Amazon Prime Now","PRIME NOW LLC    INTERNET   ***********0856",Groceries,-22.76,Posted
+2026-02-17,"Amazon","AMAZON.COM SERVI INTERNET   ***********5982",Shopping,-20.06,Posted
+2026-02-17,"PayPal Purchase","PAYPAL           INST XFER  ***********CART",Uncategorized,-15.51,Posted
+2026-02-17,"Snip Its Gil","SNIP-ITS* SNIP-ITS-GIL   148-09638111 AZ",Hair,-70.28,Posted
+2026-02-17,"In-N-Out Burger","IN-N-OUT CHANDLER 3      CHANDLER     AZ",Fast Food,-30.81,Posted
+2026-02-17,"Claude.ai Subscription","CLAUDE.AI SUBSCRIPTION   ANTHROPIC.COMCA",Electronics & Software,-21.56,Posted
+2026-02-17,"Celebrity Tanning","Celebrity Tanning 213    Chandler     AZ",Spa & Massage,-16.03,Posted
+2026-02-17,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2026-02-13,"PayPal Purchase","PAYPAL           INST XFER  ***********.HBO",Uncategorized,-19.66,Posted
+2026-02-12,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Gas,-46.00,Posted
+2026-02-12,"Goodwill","GOODWILL #110204         CHANDLER     AZ",Shopping,-39.00,Posted
+2026-02-12,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-13.81,Posted
+2026-02-11,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-245.90,Posted
+2026-02-11,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-26.88,Posted
+2026-02-11,"Fabletics","IBI*FABLETICS.COM        844-3225384  CA",Clothing,-69.95,Posted
+2026-02-10,"Amazon","AMAZON.COM SERVI INTERNET   ***********3206",Shopping,-51.71,Posted
+2026-02-10,"Stash Cash","Stash Cash Mngt  Stash      ***********C8QL",Investments,-30.00,Posted
+2026-02-10,"Amazon","AMAZON.COM SERVI INTERNET   ***********2818",Shopping,-21.25,Posted
+2026-02-10,"Amazon","AMAZON.COM SERVI INTERNET   ***********3048",Shopping,-13.80,Posted
+2026-02-10,"PayPal Purchase","PAYPAL           INST XFER  ***********2874",Uncategorized,-12.75,Posted
+2026-02-10,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.47,Posted
+2026-02-10,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2026-02-09,"Amazon","AMAZON.COM SERVI INTERNET   ***********6618",Shopping,-27.93,Posted
+2026-02-09,"Amazon","AMAZON MARKETPLA INTERNET   ***********1382",Shopping,-23.38,Posted
+2026-02-09,"Amazon","AMAZON MARKETPLA INTERNET   ***********5312",Shopping,-9.34,Posted
+2026-02-09,"PayPal Purchase","PAYPAL           INST XFER  ***********RRIS",Uncategorized,-7.00,Posted
+2026-02-09,"Fry's Food and Drug","FRYS-FOOD-DRG #0 87 E.   GILBERT      AZ",Groceries,-91.73,Posted
+2026-02-09,"Savage X","PAYPAL *SAVAGE X         402-935-7733 CA",Clothing,-47.28,Posted
+2026-02-09,"Apple","APPLE COM                CUPERTINO    CA",Electronics & Software,-20.19,Posted
+2026-02-09,"Netflix","Netflix.com              LOS GATOS    CA",Television,-19.39,Posted
+2026-02-09,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2026-02-09,"Eos Ray and Cooper","8185 EOS RAY AND COOPER  CHANDLER     AZ",Entertainment,-6.08,Posted
+2026-02-06,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-90.41,Posted
+2026-02-06,"Amazon","AMAZON MARKETPLA INTERNET   ***********4424",Shopping,-35.06,Posted
+2026-02-06,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-13.70,Posted
+2026-02-06,"Cooper Ray Ent","COOPER  RAY ENT          CHANDLER     AZ",Gas,-29.23,Posted
+2026-02-05,"Transfer to Venmo","VENMO            PAYMENT    ***********4003",Transfer,-125.00,Posted
+2026-02-05,"Google Apps Comme Efg","GOOGLE           APPS_COMME ***********EFG2",Entertainment,-8.40,Posted
+2026-02-05,"Goodwill","GOODWILL #110204         CHANDLER     AZ",Shopping,-26.06,Posted
+2026-02-05,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Gas,-18.52,Posted
+2026-02-05,"Goodwill","GOODWILL #110204         CHANDLER     AZ",Shopping,-2.85,Posted
+2026-02-04,"Transfer to Venmo","VENMO            PAYMENT    ***********8027",Transfer,-125.00,Posted
+2026-02-04,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********0R67",Paycheck,3513.14,Posted
+2026-02-03,"Interest Paid","INTEREST PAID",Interest Income,0.03,Posted
+2026-02-03,"Taxes Withheld","TAX WITHHELD",Taxes,-0.01,Posted
+2026-02-03,"Stash","STASH CAPITAL (S ACH        ***********1582",Investments,-165.00,Posted
+2026-02-03,"Amazon","AMAZON.COM SERVI INTERNET   ***********4254",Shopping,-95.62,Posted
+2026-02-03,"Stash Cash","Stash Cash Mngt  Stash      ***********E113",Investments,-30.00,Posted
+2026-02-03,"Disney+","PAYPAL           INST XFER  ***********PLUS",Television,-13.00,Posted
+2026-02-03,"Stash","Stash Financial  Stash Subs ***********0420",Service Fee,-12.00,Posted
+2026-02-03,"OpenAI","OPENAI *CHATGPT SUBSCR   OPENAI.COM   CA",Business Services,-21.26,Posted
+2026-02-02,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-254.57,Posted
+2026-02-02,"City of Chandler","CITY OF CHANDLER UTILITY    ***********9395",Utilities,-69.27,Posted
+2026-02-02,"Amazon","AMAZON.COM SERVI INTERNET   ***********8106",Shopping,-16.13,Posted
+2026-02-02,"Amazon","AMAZON.COM SERVI INTERNET   ***********7908",Shopping,-15.36,Posted
+2026-02-02,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-9.17,Posted
+2026-02-02,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2026-01-30,"Amazon","AMAZON MARKETPLA INTERNET   ***********7866",Shopping,-5.99,Posted
+2026-01-29,"Amazon","AMAZON.COM SERVI INTERNET   ***********4804",Shopping,-42.51,Posted
+2026-01-29,"Amazon","AMAZON.COM SERVI INTERNET   ***********2352",Shopping,-24.96,Posted
+2026-01-28,"Amazon","AMAZON MARKETPLA INTERNET   ***********5888",Shopping,-39.35,Posted
+2026-01-27,"Cox Communications","COX COMM PHX     PURCHASE   ***********lX2x",Utilities,-189.95,Posted
+2026-01-27,"Stash","STASH CAPITAL (S ACH        ***********1075",Investments,-100.00,Posted
+2026-01-27,"Stash Cash","Stash Cash Mngt  Stash      ***********6T31",Investments,-30.00,Posted
+2026-01-27,"Jv's Barbershop","SQ *JV'S BARBERSHOP      GILBERT      AZ",Hair,-41.25,Posted
+2026-01-27,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-3.18,Posted
+2026-01-26,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-230.00,Posted
+2026-01-26,"Amazon","AMAZON MARKETPLA INTERNET   ***********6880",Shopping,-222.06,Posted
+2026-01-26,"PayPal Purchase","PAYPAL           INST XFER  ***********CART",Uncategorized,-100.10,Posted
+2026-01-26,"PayPal Purchase","PAYPAL           INST XFER  ***********1518",Uncategorized,-34.99,Posted
+2026-01-26,"Amazon","AMAZON MARKETPLA INTERNET   ***********7180",Shopping,-15.89,Posted
+2026-01-26,"Amazon","AMAZON MARKETPLA INTERNET   ***********7174",Shopping,-15.88,Posted
+2026-01-26,"Amazon","AMAZON MARKETPLA INTERNET   ***********7168",Shopping,-12.70,Posted
+2026-01-26,"PayPal Purchase","PAYPAL           INST XFER  *********** B1C",Uncategorized,-11.61,Posted
+2026-01-26,"Goodwill","GOODWILL # 098           GILBERT      AZ",Shopping,-20.05,Posted
+2026-01-26,"Hulu","Hulu                     877-8244858  CA",Television,-12.99,Posted
+2026-01-26,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.48,Posted
+2026-01-23,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-384.86,Posted
+2026-01-23,"Stash","STASH CAPITAL (S ACH        ***********1204",Investments,-50.00,Posted
+2026-01-23,"Amazon","AMAZON.COM SERVI INTERNET   ***********6014",Shopping,-30.87,Posted
+2026-01-23,"Amazon","AMAZON.COM SERVI INTERNET   ***********0292",Shopping,-11.97,Posted
+2026-01-23,"Vimeo","VMO*VIMEO.COM            848-359-5618 NY",Entertainment,-116.21,Posted
+2026-01-22,"PayPal Purchase","PAYPAL           INST XFER  ***********TIME",Uncategorized,-4.25,Posted
+2026-01-22,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-12.75,Posted
+2026-01-21,"USAA Property and Casualty Insurance","USAA P&C         AUTOPAY    ***********4749",Financial,-51.53,Posted
+2026-01-21,"Blue Sky Pest Co S F Fa","Blue Sky Pest Co WWP*Blue S ***********f4fa",Uncategorized,-50.00,Posted
+2026-01-21,"Stash Cash Jodo","Stash Cash Mngt  Stash      ***********JODO",Investments,-30.00,Posted
+2026-01-21,"Rocket Money Premium","Rocket Money     Premium    ***********M5E3",Financial,-10.78,Posted
+2026-01-21,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********6R67",Paycheck,3513.13,Posted
+2026-01-20,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-220.31,Posted
+2026-01-20,"Amazon","AMAZON.COM SERVI INTERNET   ***********4660",Shopping,-15.96,Posted
+2026-01-20,"Amazon","AMAZON.COM SERVI INTERNET   ***********9560",Shopping,-14.87,Posted
+2026-01-20,"Hims & Hers Health","HIMS & HERS HEALTH       FORHIMS.COM  CA",Pharmacy,-606.00,Posted
+2026-01-20,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2026-01-20,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.43,Posted
+2026-01-16,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2840.68,Posted
+2026-01-15,"Republic Services","REPUBLICSERVICES RSIBILLPAY ***********5169",Utilities,-153.98,Posted
+2026-01-15,"USAA Credit Card","USAA CREDIT CARD PAYMENT    ***********5021",Credit Card Payment,-132.00,Posted
+2026-01-15,"Amazon","AMAZON.COM SERVI INTERNET   ***********1072",Shopping,-30.78,Posted
+2026-01-15,"Amazon","AMAZON.COM SERVI INTERNET   ***********3468",Shopping,-11.97,Posted
+2026-01-15,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.42,Posted
+2026-01-14,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.44,Posted
+2026-01-13,"Stash Cash","Stash Cash Mngt  Stash      ***********7TNW",Investments,-30.00,Posted
+2026-01-13,"PayPal Purchase","PAYPAL           INST XFER  ***********.HBO",Uncategorized,-19.66,Posted
+2026-01-13,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-11.89,Posted
+2026-01-12,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-178.02,Posted
+2026-01-12,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-0.53,Posted
+2026-01-12,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Gas,-63.59,Posted
+2026-01-12,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2026-01-12,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-13.81,Posted
+2026-01-12,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-2.01,Posted
+2026-01-12,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-1.00,Posted
+2026-01-09,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-27.12,Posted
+2026-01-09,"PayPal Purchase","PAYPAL           INST XFER  ***********3575",Uncategorized,-12.75,Posted
+2026-01-09,"PayPal Purchase","PAYPAL           INST XFER  ***********RRIS",Uncategorized,-7.00,Posted
+2026-01-09,"Vudu","PAYPAL *VUDU LLC         402-935-7733 CA",Movies & Dvds,-10.62,Posted
+2026-01-08,"Oregon Vital Rec","VCN*OREGON VITAL REC     888-4121838  OR",Business Services,-67.50,Posted
+2026-01-08,"Vudu","PAYPAL *VUDU LLC         402-935-7733 CA",Movies & Dvds,-31.88,Posted
+2026-01-08,"Vudu","PAYPAL *VUDU LLC         402-935-7733 CA",Movies & Dvds,-21.25,Posted
+2026-01-08,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-20.19,Posted
+2026-01-08,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.50,Posted
+2026-01-08,"Oregon Vital Rec","VCN*OREGON VITAL REC     888-4121838  OR",Business Services,15.50,Posted
+2026-01-07,"Fabletics","IBI*FABLETICS.COM        844-3225384  CA",Clothing,-69.95,Posted
+2026-01-07,"Netflix","Netflix.com              netflix.com  CA",Television,-19.39,Posted
+2026-01-06,"Stash Cash Lir","Stash Cash Mngt  Stash      ***********LIR5",Investments,-30.00,Posted
+2026-01-06,"Jv's Barbershop","SQ *JV'S BARBERSHOP      GILBERT      AZ",Hair,-41.25,Posted
+2026-01-05,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-190.31,Posted
+2026-01-05,"Stash","STASH CAPITAL (S ACH        ***********5235",Investments,-145.00,Posted
+2026-01-05,"Disney+","PAYPAL           INST XFER  ***********PLUS",Television,-13.00,Posted
+2026-01-05,"Stash","Stash Financial  Stash Subs ***********1415",Service Fee,-12.00,Posted
+2026-01-05,"Google Apps Comme","GOOGLE           APPS_COMME ***********R9ZV",Entertainment,-5.68,Posted
+2026-01-05,"Obsidian Oakville","OBSIDIAN                 OAKVILLE     ON",Shopping,-52.26,Posted
+2026-01-05,"OpenAI","OPENAI *CHATGPT SUBSCR   OPENAI.COM   CA",Business Services,-21.26,Posted
+2026-01-05,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-2.01,Posted
+2026-01-05,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********4R67",Paycheck,3513.14,Posted
+2026-01-02,"Interest Paid","INTEREST PAID",Interest Income,0.02,Posted
+2026-01-02,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2026-01-02,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-6.02,Posted
+2025-12-30,"Stash Cash Yyoi","Stash Cash Mngt  Stash      ***********YYOI",Investments,-30.00,Posted
+2025-12-30,"Amazon","AMAZON MARKETPLA INTERNET   ***********5548",Shopping,-20.19,Posted
+2025-12-30,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.82,Posted
+2025-12-29,"Cox Communications","COX COMM PHX     PURCHASE   ***********K7Rb",Utilities,-145.95,Posted
+2025-12-29,"Stash","STASH CAPITAL (S ACH        ***********3273",Investments,-100.00,Posted
+2025-12-29,"City of Chandler","CITY OF CHANDLER UTILITY    ***********6291",Utilities,-66.73,Posted
+2025-12-29,"Amazon","AMAZON MARKETPLA INTERNET   ***********9902",Shopping,-37.60,Posted
+2025-12-29,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-41.98,Posted
+2025-12-29,"Goodwill","GOODWILL # 098           GILBERT      AZ",Shopping,-13.26,Posted
+2025-12-29,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-3.18,Posted
+2025-12-29,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-2.01,Posted
+2025-12-26,"PayPal Purchase","PAYPAL           INST XFER  ***********1518",Uncategorized,-34.99,Posted
+2025-12-26,"PayPal Purchase","PAYPAL           INST XFER  *********** E36",Uncategorized,-11.61,Posted
+2025-12-26,"PayPal Purchase","PAYPAL           INST XFER  ***********TIME",Uncategorized,-4.25,Posted
+2025-12-24,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-216.00,Posted
+2025-12-24,"Marshalls","MARSHALLS #205           GILBERT      AZ",Shopping,-61.68,Posted
+2025-12-24,"Hulu","Hulu                     877-8244858  CA",Television,-12.99,Posted
+2025-12-23,"Blue Sky Pest Co","Blue Sky Pest Co WWP*Blue S ***********f475",Uncategorized,-50.00,Posted
+2025-12-23,"Stash Cash","Stash Cash Mngt  Stash      ***********FN1X",Investments,-30.00,Posted
+2025-12-23,"Costco","COSTCO WHSE #0644        GILBERT      AZ",Shopping,-211.89,Posted
+2025-12-23,"Marshalls","MARSHALLS #205           GILBERT      AZ",Shopping,-205.68,Posted
+2025-12-23,"Dick's Sporting Goods","Dicks Sporting Goods     Gilbert      AZ",Sporting Goods,-111.45,Posted
+2025-12-22,"On Inc","On Inc                   855-4336717  OR",Clothing,-200.00,Posted
+2025-12-22,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-12.75,Posted
+2025-12-22,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.51,Posted
+2025-12-19,"Rocket Money Premium","Rocket Money     Premium    ***********K7H2",Financial,-10.78,Posted
+2025-12-18,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********4R67",Paycheck,3494.63,Posted
+2025-12-17,"Transfer to Venmo","VENMO            PAYMENT    ***********1277",Transfer,-250.00,Posted
+2025-12-17,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2025-12-17,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.84,Posted
+2025-12-16,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2840.68,Posted
+2025-12-16,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-223.12,Posted
+2025-12-16,"Stash Cash","Stash Cash Mngt  Stash      ***********I69J",Investments,-30.00,Posted
+2025-12-15,"USAA Credit Card","USAA CREDIT CARD PAYMENT    ***********5021",Credit Card Payment,-129.00,Posted
+2025-12-15,"PayPal Purchase","PAYPAL           INST XFER  ***********.HBO",Uncategorized,-19.66,Posted
+2025-12-12,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-27.22,Posted
+2025-12-12,"Amazon","AMAZON.COM SERVI INTERNET   ***********3050",Shopping,-11.64,Posted
+2025-12-11,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-13.81,Posted
+2025-12-09,"Stash Cash","Stash Cash Mngt  Stash      ***********O9XS",Investments,-30.00,Posted
+2025-12-09,"PayPal Purchase","PAYPAL           INST XFER  ***********3701",Uncategorized,-12.75,Posted
+2025-12-09,"PayPal Purchase","PAYPAL           INST XFER  ***********RRIS",Uncategorized,-7.00,Posted
+2025-12-09,"Fabletics","IBI*FABLETICS.COM        844-3225384  CA",Clothing,-69.95,Posted
+2025-12-09,"Posit Software","POSIT SOFTWARE  PBC      BOSTON       MA",Electronics & Software,-13.82,Posted
+2025-12-09,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.73,Posted
+2025-12-08,"Lowe's","LOWE'S #10               GILBERT      AZ",Home Improvement,-186.00,Posted
+2025-12-08,"Apple","APPLE COM                CUPERTINO    CA",Electronics & Software,-20.19,Posted
+2025-12-08,"Netflix","Netflix.com              408-5403700  CA",Television,-19.39,Posted
+2025-12-08,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.67,Posted
+2025-12-04,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-200.97,Posted
+2025-12-03,"Interest Paid","INTEREST PAID",Interest Income,0.02,Posted
+2025-12-03,"Disney+","PAYPAL           INST XFER  ***********PLUS",Television,-13.00,Posted
+2025-12-03,"Stash","Stash Financial  Stash Subs ***********84B7",Service Fee,-12.00,Posted
+2025-12-03,"OpenAI","OPENAI *CHATGPT SUBSCR   OPENAI.COM   CA",Business Services,-21.26,Posted
+2025-12-03,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********8R67",Paycheck,3407.78,Posted
+2025-12-02,"Stash","STASH CAPITAL (S ACH        ***********5127",Investments,-145.00,Posted
+2025-12-02,"Stash Cash Jzy","Stash Cash Mngt  Stash      ***********JZY7",Investments,-30.00,Posted
+2025-12-02,"Amazon","AMAZON.COM SERVI INTERNET   ***********2388",Shopping,-22.82,Posted
+2025-12-02,"Amazon","AMAZON.COM SERVI INTERNET   ***********0890",Shopping,-10.62,Posted
+2025-12-01,"Amazon","AMAZON MARKETPLA INTERNET   ***********3878",Shopping,-36.12,Posted
+2025-12-01,"Amazon","AMAZON MARKETPLA INTERNET   ***********7716",Shopping,-4.87,Posted
+2025-12-01,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-11-28,"Cox Communications","COX COMM PHX     PURCHASE   ***********uNW0",Utilities,-135.95,Posted
+2025-11-28,"City of Chandler","CITY OF CHANDLER UTILITY    ***********4792",Utilities,-69.27,Posted
+2025-11-28,"Amazon","AMAZON.COM SERVI INTERNET   ***********7048",Shopping,-51.82,Posted
+2025-11-28,"PayPal Purchase","PAYPAL           INST XFER  ***********TIME",Uncategorized,-4.25,Posted
+2025-11-26,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-106.63,Posted
+2025-11-26,"Stash","STASH CAPITAL (S ACH        ***********4171",Investments,-100.00,Posted
+2025-11-26,"Amazon","AMAZON MARKETPLA INTERNET   ***********6532",Shopping,-82.46,Posted
+2025-11-26,"PayPal Purchase","PAYPAL           INST XFER  ***********1518",Uncategorized,-34.99,Posted
+2025-11-26,"PayPal Purchase","PAYPAL           INST XFER  *********** CE2",Uncategorized,-11.61,Posted
+2025-11-26,"Onpoint Community","PP*ONPOINT COMMUNITY CR  800-5273932  OR",Financial,-209.89,Posted
+2025-11-26,"Apple","APPLE COM                CUPERTINO    CA",Electronics & Software,-3.18,Posted
+2025-11-26,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-11-25,"Amazon","AMAZON.COM SERVI INTERNET   ***********6914",Shopping,-50.21,Posted
+2025-11-25,"Stash Cash","Stash Cash Mngt  Stash      ***********SFHX",Investments,-30.00,Posted
+2025-11-25,"Jv's Barbershop","SQ *JV'S BARBERSHOP      GILBERT      AZ",Hair,-37.95,Posted
+2025-11-24,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-216.00,Posted
+2025-11-24,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-199.73,Posted
+2025-11-24,"Green","GREEN4U                  GILBERT      AZ",Laundry,-35.00,Posted
+2025-11-24,"Hulu","Hulu                     877-8244858  CA",Television,-12.99,Posted
+2025-11-24,"Apple","APPLE COM                CUPERTINO    CA",Electronics & Software,-12.75,Posted
+2025-11-24,"Snip Its Gil","SNIP-ITS* SNIP-ITS-GIL   148-09638111 AZ",Hair,-11.89,Posted
+2025-11-24,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.47,Posted
+2025-11-24,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-2.01,Posted
+2025-11-21,"USAA Property and Casualty Insurance","USAA P&C         AUTOPAY    ***********4749",Financial,-108.19,Posted
+2025-11-21,"Amazon","AMAZON.COM SERVI INTERNET   ***********0732",Shopping,-55.81,Posted
+2025-11-21,"Blue Sky Pest Co","Blue Sky Pest Co WWP*Blue S ***********0402",Uncategorized,-50.00,Posted
+2025-11-21,"HBO Max","PAYPAL *HBOMAX HELP.HBO  402-935-7733 NY",Television,-18.06,Posted
+2025-11-20,"Transfer to Venmo","VENMO            PAYMENT    ***********8926",Transfer,-250.00,Posted
+2025-11-20,"Transfer to Venmo","VENMO            PAYMENT    ***********7125",Transfer,-200.00,Posted
+2025-11-20,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-42.19,Posted
+2025-11-20,"Spotify","PAYPAL *SPOTIFY*P3C39F1  402-935-7733 NY",Music,-12.75,Posted
+2025-11-20,"Returned Deposit Item","RETURNED DEPOSIT ITEM",Banking Fee,-115.38,Posted
+2025-11-19,"Rocket Money Premium","Rocket Money     Premium    ***********H0W2",Financial,-10.78,Posted
+2025-11-19,"Sam Harris","PAYPAL *SAM HARRIS       402-935-7733 CA",Books,-7.00,Posted
+2025-11-19,"Returned Deposit Item","RETURNED DEPOSIT ITEM",Banking Fee,-115.38,Posted
+2025-11-19,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********7R67",Paycheck,3407.79,Posted
+2025-11-18,"Paddle","PADDLE.COM MARKE IAT PAYPAL ***********6634",Electronics & Software,-53.87,Posted
+2025-11-18,"Amazon","AMAZON MARKETPLA INTERNET   ***********6274",Shopping,-38.26,Posted
+2025-11-18,"Stash Cash Attu","Stash Cash Mngt  Stash      ***********ATTU",Investments,-30.00,Posted
+2025-11-18,"Amazon","AMAZON.COM SERVI INTERNET   ***********6394",Shopping,-27.93,Posted
+2025-11-18,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-11-18,"Transfer from Venmo","VENMO            CASHOUT    ***********2049",Transfer,62.53,Posted
+2025-11-17,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2840.68,Posted
+2025-11-17,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-297.49,Posted
+2025-11-17,"USAA Credit Card","USAA CREDIT CARD PAYMENT    ***********5021",Credit Card Payment,-131.00,Posted
+2025-11-17,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2025-11-17,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.77,Posted
+2025-11-17,"Transfer from Venmo","VENMO            CASHOUT    ***********2135",Transfer,200.00,Posted
+2025-11-17,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-11-17,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-11-17,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-11-13,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-42.55,Posted
+2025-11-13,"Stash Cash Ivuk Qo Atww","Stash Cash Mngt  Stash      DV8IVUK0QO2ATWW",Income,100.00,Posted
+2025-11-12,"Amazon","AMAZON MARKETPLA INTERNET   ***********5832",Shopping,-40.38,Posted
+2025-11-12,"Amazon","AMAZON.COM SERVI INTERNET   ***********1576",Shopping,-31.86,Posted
+2025-11-12,"Amazon","AMAZON.COM SERVI INTERNET   ***********1400",Shopping,-31.61,Posted
+2025-11-12,"Stash Cash","Stash Cash Mngt  Stash      ***********I1VG",Investments,-30.00,Posted
+2025-11-12,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-26.96,Posted
+2025-11-12,"Hims & Hers Health","HIMS & HERS HEALTH       FORHIMS.COM  CA",Pharmacy,-606.00,Posted
+2025-11-12,"Fabletics","IBI*FABLETICS.COM        844-3225384  CA",Clothing,-69.95,Posted
+2025-11-12,"Apple","APPLE COM                CUPERTINO    CA",Electronics & Software,-13.81,Posted
+2025-11-10,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-200.04,Posted
+2025-11-10,"Apple","APPLE COM                CUPERTINO    CA",Electronics & Software,-20.19,Posted
+2025-11-10,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-11-10,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.64,Posted
+2025-11-07,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-40.40,Posted
+2025-11-07,"Paddle","PAYPAL *PADDLE.NET       35314369001",Electronics & Software,-40.35,Posted
+2025-11-07,"Netflix","NETFLIX.COM              NETFLIX.COM  CA",Television,-19.39,Posted
+2025-11-06,"Amazon","AMAZON.COM SERVI INTERNET   ***********0308",Shopping,-21.14,Posted
+2025-11-06,"Amazon","AMAZON.COM SERVI INTERNET   ***********1028",Shopping,-11.97,Posted
+2025-11-06,"Sharkeys Cuts for Kidsb","SHARKEYS CUTS FOR KIDSB  GILBERT      AZ",Hair,-37.71,Posted
+2025-11-06,"Vudu","PAYPAL *VUDU LLC         402-935-7733 CA",Movies & Dvds,-12.75,Posted
+2025-11-05,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-292.31,Posted
+2025-11-05,"Google Apps Comme Wbed","GOOGLE           APPS_COMME ***********WBED",Entertainment,-7.04,Posted
+2025-11-05,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.55,Posted
+2025-11-05,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********7R67",Paycheck,3407.78,Posted
+2025-11-04,"Stash Cash","Stash Cash Mngt  Stash      ***********15NZ",Investments,-30.00,Posted
+2025-11-04,"Stash","Stash Financial  Stash Subs ***********A422",Service Fee,-12.00,Posted
+2025-11-04,"Costco","WWW COSTCO COM           800-955-2292 WA",Shopping,-139.88,Posted
+2025-11-03,"Interest Paid","INTEREST PAID",Interest Income,0.02,Posted
+2025-11-03,"Amazon","AMAZON.COM SERVI INTERNET   ***********5660",Shopping,-211.54,Posted
+2025-11-03,"Goodwill","GOODWILL # 147           GILBERT      AZ",Shopping,-65.06,Posted
+2025-11-03,"OpenAI","OPENAI *CHATGPT SUBSCR   OPENAI.COM   CA",Business Services,-21.26,Posted
+2025-11-03,"Goodwill","GOODWILL #110204         CHANDLER     AZ",Shopping,-18.00,Posted
+2025-11-03,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-11-03,"Circle K","CIRCLE K 06651           CHANDLER     AZ",Gas,-6.46,Posted
+2025-11-03,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.77,Posted
+2025-10-31,"Stash","STASH CAPITAL (S ACH        ***********9368",Investments,-145.00,Posted
+2025-10-30,"City of Chandler","CITY OF CHANDLER UTILITY    ***********9410",Utilities,-69.27,Posted
+2025-10-30,"Amazon","AMAZON.COM SERVI INTERNET   ***********6444",Shopping,-10.07,Posted
+2025-10-30,"PayPal Purchase","PAYPAL           INST XFER  ***********TIME",Uncategorized,-4.25,Posted
+2025-10-29,"PayPal Purchase","PAYPAL           INST XFER  ***********OTON",Uncategorized,-88.23,Posted
+2025-10-29,"Amazon","AMAZON.COM SERVI INTERNET   ***********9370",Shopping,-15.66,Posted
+2025-10-29,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Gas,-76.86,Posted
+2025-10-29,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Gas,-32.94,Posted
+2025-10-29,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.58,Posted
+2025-10-28,"Stash","STASH CAPITAL (S ACH        ***********0044",Investments,-100.00,Posted
+2025-10-28,"Stash Cash O Qe","Stash Cash Mngt  Stash      ***********O1QE",Investments,-30.00,Posted
+2025-10-27,"Cox Communications","COX COMM PHX     PURCHASE   ***********Rjhe",Utilities,-135.95,Posted
+2025-10-27,"PayPal Purchase","PAYPAL           INST XFER  ***********1518",Uncategorized,-34.99,Posted
+2025-10-27,"Desert Breeze Railr Chandler","SQ *DESERT BREEZE RAILR  Chandler     AZ",Entertainment,-21.85,Posted
+2025-10-27,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-3.18,Posted
+2025-10-24,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-205.00,Posted
+2025-10-24,"Hulu","Hulu                     877-8244858  CA",Television,-12.99,Posted
+2025-10-23,"PayPal Purchase","PAYPAL           INST XFER  ***********OSTC",Uncategorized,-473.65,Posted
+2025-10-23,"Transfer to Venmo","VENMO            PAYMENT    ***********8495",Transfer,-250.00,Posted
+2025-10-23,"Blue Sky Pest Co S","Blue Sky Pest Co WWP*Blue S ***********f42f",Uncategorized,-50.00,Posted
+2025-10-23,"Country Place","FCB*COUNTRY PLACE A      866.800.4656 NE",Mortgage & Rent,-114.79,Posted
+2025-10-22,"Amazon","AMAZON MARKETPLA INTERNET   ***********6046",Shopping,-36.93,Posted
+2025-10-22,"Rocket Money Premium","Rocket Money     Premium    ***********F7E2",Financial,-10.78,Posted
+2025-10-22,"Lids","PAYPAL *LIDS.COM         402-935-7733 FL",Clothing,-42.12,Posted
+2025-10-22,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-12.75,Posted
+2025-10-21,"USAA Property and Casualty Insurance","USAA P&C         AUTOPAY    ***********4749",Financial,-108.19,Posted
+2025-10-21,"Stash Cash Skyp","Stash Cash Mngt  Stash      ***********SKYP",Investments,-30.00,Posted
+2025-10-21,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********7R67",Paycheck,3407.79,Posted
+2025-10-20,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-10-17,"PayPal","PAYPAL           RECOVERY   ***********8083",Uncategorized,-159.90,Posted
+2025-10-17,"Amazon","AMAZON MARKETPLA INTERNET   ***********4812",Shopping,-39.82,Posted
+2025-10-17,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2025-10-16,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2840.68,Posted
+2025-10-16,"Republic Services","REPUBLICSERVICES RSIBILLPAY ***********5169",Utilities,-153.12,Posted
+2025-10-16,"Amazon","AMAZON MARKETPLA INTERNET   ***********7602",Shopping,-57.65,Posted
+2025-10-16,"Amazon","AMAZON MARKETPLA INTERNET   ***********0264",Shopping,-42.47,Posted
+2025-10-15,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-391.45,Posted
+2025-10-15,"USAA Credit Card","USAA CREDIT CARD PAYMENT    ***********5021",Credit Card Payment,-129.00,Posted
+2025-10-15,"Stash Cash","Stash Cash Mngt  Stash      ***********RBD1",Investments,-30.00,Posted
+2025-10-14,"Amazon","AMAZON.COM SERVI INTERNET   ***********0306",Shopping,-48.25,Posted
+2025-10-14,"Amazon","AMAZON MARKETPLA INTERNET   ***********1370",Shopping,-45.98,Posted
+2025-10-14,"Amazon","AMAZON MARKETPLA INTERNET   ***********9956",Shopping,-37.21,Posted
+2025-10-14,"Amazon","AMAZON.COM SERVI INTERNET   ***********9850",Shopping,-27.67,Posted
+2025-10-14,"PayPal Purchase","PAYPAL           INST XFER  ***********.HBO",Uncategorized,-18.06,Posted
+2025-10-14,"Instacart","IC* INSTACART            INSTACART.COMCA",Groceries,-82.96,Posted
+2025-10-14,"Jv's Barbershop","SQ *JV'S BARBERSHOP      GILBERT      AZ",Hair,-37.95,Posted
+2025-10-14,"Scholastic","SCHOLASTIC BOOK FAIRS R  LAKE MARY    FL",Books,-26.93,Posted
+2025-10-14,"Apple","APPLE COM                CUPERTINO    CA",Electronics & Software,-13.81,Posted
+2025-10-10,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-27.02,Posted
+2025-10-10,"Fabletics","IBI*FABLETICS.COM        844-3225384  CA",Clothing,-69.95,Posted
+2025-10-10,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.61,Posted
+2025-10-09,"PayPal Purchase","PAYPAL           INST XFER  ***********4CDD",Uncategorized,-12.75,Posted
+2025-10-09,"PayPal Purchase","PAYPAL           INST XFER  ***********RRIS",Uncategorized,-7.00,Posted
+2025-10-09,"ARCO","ARCO #4229               CHANDLER     AZ",Gas,-50.36,Posted
+2025-10-09,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-10-08,"Instacart via Instacart","IC* COSTCO BY INSTACAR   INSTACART.COMCA",Shopping,-236.17,Posted
+2025-10-07,"Amazon","AMAZON.COM SERVI INTERNET   ***********0186",Shopping,-42.50,Posted
+2025-10-07,"Stash Cash","Stash Cash Mngt  Stash      ***********RVDX",Investments,-30.00,Posted
+2025-10-07,"Netflix","Netflix.com              netflix.com  CA",Television,-19.39,Posted
+2025-10-06,"PayPal Purchase","PAYPAL           INST XFER  ***********0KRM",Uncategorized,-139.95,Posted
+2025-10-06,"Amazon","AMAZON MARKETPLA INTERNET   ***********6132",Shopping,-67.97,Posted
+2025-10-06,"Google Apps Comme Fbo","GOOGLE           APPS_COMME ***********FBO1",Entertainment,-26.88,Posted
+2025-10-06,"Amazon","AMAZON MARKETPLA INTERNET   ***********6642",Shopping,-24.99,Posted
+2025-10-06,"Amazon","AMAZON MARKETPLA INTERNET   ***********3794",Shopping,-21.25,Posted
+2025-10-06,"Amazon","AMAZON MARKETPLA INTERNET   ***********2920",Shopping,-21.25,Posted
+2025-10-06,"Google Apps Comme","GOOGLE           APPS_COMME ***********GMV0",Entertainment,-11.48,Posted
+2025-10-06,"Amazon","AMAZON.COM SERVI INTERNET   ***********1074",Shopping,-7.44,Posted
+2025-10-06,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-20.19,Posted
+2025-10-06,"Walgreens","WALGREENS STORE 1985 E   CHANDLER     AZ",Pharmacy,-10.00,Posted
+2025-10-06,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-2.01,Posted
+2025-10-06,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********3R67",Paycheck,2229.73,Posted
+2025-10-06,"Transfer from Venmo","VENMO            CASHOUT    ***********8444",Transfer,53.65,Posted
+2025-10-03,"Interest Paid","INTEREST PAID",Interest Income,0.02,Posted
+2025-10-03,"Stash","Stash Financial  Stash Subs ***********F491",Service Fee,-12.00,Posted
+2025-10-03,"Disney+","PAYPAL           INST XFER  ***********PLUS",Television,-12.00,Posted
+2025-10-03,"OpenAI","OPENAI *CHATGPT SUBSCR   OPENAI.COM   CA",Business Services,-21.26,Posted
+2025-10-02,"PayPal Purchase","PAYPAL           INST XFER  *********** INC",Uncategorized,-51.02,Posted
+2025-10-02,"Amazon","AMAZON MARKETPLA INTERNET   ***********6040",Shopping,-33.96,Posted
+2025-10-02,"Amazon","AMAZON MARKETPLA INTERNET   ***********1588",Shopping,-23.60,Posted
+2025-10-02,"Amazon","AMAZON.COM SERVI INTERNET   ***********4890",Shopping,-4.97,Posted
+2025-10-02,"PayPal Purchase","PAYPAL           INST XFER  ***********TIME",Uncategorized,-4.25,Posted
+2025-10-02,"Anthropic.com","ANTHROPIC                ANTHROPIC.COMCA",Electronics & Software,-5.84,Posted
+2025-10-01,"Stash","STASH CAPITAL (S ACH        ***********4351",Investments,-145.00,Posted
+2025-10-01,"City of Chandler","CITY OF CHANDLER UTILITY    ***********9550",Utilities,-71.81,Posted
+2025-10-01,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-09-30,"Stash Cash Er","Stash Cash Mngt  Stash      ***********39ER",Investments,-30.00,Posted
+2025-09-29,"Cox Communications","COX COMM PHX     PURCHASE   ***********YtdN",Utilities,-135.95,Posted
+2025-09-29,"Amazon","AMAZON MARKETPLA INTERNET   ***********0120",Shopping,-41.12,Posted
+2025-09-29,"Country Place","FCB*COUNTRY PLACE A      866.800.4656 NE",Mortgage & Rent,-114.79,Posted
+2025-09-29,"Bosa Donuts Coffee Gilbert","SQ *BOSA DONUTS COFFEE   GILBERT      AZ",Coffee Shops,-6.86,Posted
+2025-09-29,"Apple","APPLE.COM/BILL           866-712-7753 CA",Electronics & Software,-3.18,Posted
+2025-09-26,"STASH CAPITAL (S ACH        ***********0502","STASH CAPITAL (S ACH        ***********0502",Category Pending,-100.00,Posted
+2025-09-26,"PADDLE.COM MARKE IAT PAYPAL ***********5073","PADDLE.COM MARKE IAT PAYPAL ***********5073",Category Pending,-59.95,Posted
+2025-09-26,"PAYPAL           INST XFER  ***********1518","PAYPAL           INST XFER  ***********1518",Category Pending,-34.99,Posted
+2025-09-26,"PAYPAL           INST XFER  *********** AED","PAYPAL           INST XFER  *********** AED",Category Pending,-11.61,Posted
+2025-09-26,"Instacart via Instacart","IC* COSTCO BY INSTACAR   INSTACART.COMCA",Shopping,-249.74,Posted
+2025-09-25,"AMAZON.COM SERVI INTERNET   ***********6168","AMAZON.COM SERVI INTERNET   ***********6168",Category Pending,-32.76,Posted
+2025-09-25,"ANTHROPIC                ANTHROPIC.COMCA","ANTHROPIC                ANTHROPIC.COMCA",Category Pending,-5.51,Posted
+2025-09-24,"AMZ_STORECRD_PMT PAYMENT    ***********6199","AMZ_STORECRD_PMT PAYMENT    ***********6199",Category Pending,-205.00,Posted
+2025-09-24,"Hulu                     Hulu.com     CA","Hulu                     Hulu.com     CA",Category Pending,-10.82,Posted
+2025-09-24,"BLU OMEGA LLC    PAYROLL    ***********2890","BLU OMEGA LLC    PAYROLL    ***********2890",Category Pending,3139.58,Posted
+2025-09-23,"USAA P&C         AUTOPAY    ***********4749","USAA P&C         AUTOPAY    ***********4749",Category Pending,-108.19,Posted
+2025-09-23,"Blue Sky Pest Co WWP*Blue S ***********0481","Blue Sky Pest Co WWP*Blue S ***********0481",Category Pending,-50.00,Posted
+2025-09-23,"Stash Cash Mngt  Stash      ***********2E3Z","Stash Cash Mngt  Stash      ***********2E3Z",Category Pending,-30.00,Posted
+2025-09-22,"PAYPAL           INST XFER  ***********EATS","PAYPAL           INST XFER  ***********EATS",Category Pending,-42.20,Posted
+2025-09-22,"PAYPAL           INST XFER  ***********EATS","PAYPAL           INST XFER  ***********EATS",Category Pending,-9.40,Posted
+2025-09-22,"CITY OF CHANDLER         480-782-2280 AZ","CITY OF CHANDLER         480-782-2280 AZ",Category Pending,-69.27,Posted
+2025-09-22,"IN-N-OUT CHANDLER 3      CHANDLER     AZ","IN-N-OUT CHANDLER 3      CHANDLER     AZ",Category Pending,-38.21,Posted
+2025-09-22,"ICP*Goldfish Swim Schoo  480-6802323  AZ","ICP*Goldfish Swim Schoo  480-6802323  AZ",Category Pending,-3.01,Posted
+2025-09-19,"Rocket Money     Premium    ***********U0W3","Rocket Money     Premium    ***********U0W3",Category Pending,-10.78,Posted
+2025-09-19,"DEPOSIT@MOBILE","DEPOSIT@MOBILE",Category Pending,115.38,Posted
+2025-09-18,"APPLE.COM/BILL           866-712-7753 CA","APPLE.COM/BILL           866-712-7753 CA",Category Pending,-12.75,Posted
+2025-09-17,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2025-09-16,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-380.79,Posted
+2025-09-16,"Amazon","AMAZON.COM SERVI INTERNET   ***********7630",Shopping,-42.40,Posted
+2025-09-16,"Stash Cash","Stash Cash Mngt  Stash      ***********DL3N",Investments,-30.00,Posted
+2025-09-16,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Electronics & Software,-49.00,Posted
+2025-09-15,"USAA Credit Card","USAA CREDIT CARD PAYMENT    ***********5021",Credit Card Payment,-114.00,Posted
+2025-09-15,"Stash","STASH CAPITAL (S ACH        ***********6094",Investments,-50.00,Posted
+2025-09-15,"PayPal Purchase","PAYPAL           INST XFER  ***********.HBO",Uncategorized,-18.31,Posted
+2025-09-15,"Lowe's","LOWE'S #28               GILBERT      AZ",Home Improvement,-117.09,Posted
+2025-09-15,"Instacart","IC* INSTACART            INSTACART.COMCA",Groceries,-74.55,Posted
+2025-09-12,"Instacart via Instacart","IC* COSTCO BY INSTACAR   INSTACART.COMCA",Shopping,-416.26,Posted
+2025-09-12,"Onpoint Community","PP*ONPOINT COMMUNITY CR  800-5273932  OR",Financial,-200.00,Posted
+2025-09-12,"ARCO","ARCO #4229               CHANDLER     AZ",Gas,-50.35,Posted
+2025-09-11,"Transfer to Venmo","VENMO            PAYMENT    ***********0205",Transfer,-250.00,Posted
+2025-09-11,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-26.98,Posted
+2025-09-10,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********5285",Paycheck,3139.58,Posted
+2025-09-09,"Stash Cash Ey","Stash Cash Mngt  Stash      ***********EY2G",Investments,-30.00,Posted
+2025-09-09,"PayPal Purchase","PAYPAL           INST XFER  ***********566F",Uncategorized,-12.75,Posted
+2025-09-09,"PayPal Purchase","PAYPAL           INST XFER  ***********RRIS",Uncategorized,-7.00,Posted
+2025-09-09,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-09-08,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2840.68,Posted
+2025-09-08,"Amazon","AMAZON.COM SERVI INTERNET   ***********2026",Shopping,-34.97,Posted
+2025-09-08,"Amazon","AMAZON MARKETPLA INTERNET   ***********2738",Shopping,-33.30,Posted
+2025-09-08,"Spring Meadows Wate","IN *SPRING MEADOWS WATE  480-6286357  AZ",Utilities,-800.00,Posted
+2025-09-08,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-26.48,Posted
+2025-09-08,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-24.48,Posted
+2025-09-08,"Transfer from Venmo","VENMO            CASHOUT    ***********3640",Transfer,400.00,Posted
+2025-09-08,"Stash Cash Lmy Ke","Stash Cash Mngt  Stash      6LMY9HQGFF45KE9",Income,300.00,Posted
+2025-09-08,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-09-05,"Google Apps Comme Ymfy","GOOGLE           APPS_COMME ***********YMFY",Entertainment,-67.20,Posted
+2025-09-05,"Amazon","AMAZON MARKETPLA INTERNET   ***********4238",Shopping,-21.99,Posted
+2025-09-05,"Google Apps Comme","GOOGLE           APPS_COMME ***********29T8",Entertainment,-16.80,Posted
+2025-09-04,"Amazon","AMAZON.COM SERVI INTERNET   ***********6796",Shopping,-127.55,Posted
+2025-09-04,"PayPal Purchase","PAYPAL           INST XFER  ***********TIME",Uncategorized,-4.25,Posted
+2025-09-04,"OpenAI","OPENAI *CHATGPT SUBSCR   OPENAI.COM   CA",Business Services,-21.26,Posted
+2025-09-03,"Interest Paid","INTEREST PAID",Interest Income,0.03,Posted
+2025-09-03,"Taxes Withheld","TAX WITHHELD",Taxes,-0.01,Posted
+2025-09-03,"Stash","STASH CAPITAL (S ACH        ***********2962",Investments,-125.00,Posted
+2025-09-03,"Stash Cash","Stash Cash Mngt  Stash      ***********2TBL",Investments,-30.00,Posted
+2025-09-03,"Disney+","PAYPAL           INST XFER  ***********PLUS",Television,-12.00,Posted
+2025-09-03,"Stash","Stash Financial  Stash Subs ***********F413",Investments,-9.00,Posted
+2025-09-02,"Transfer to Venmo","VENMO            PAYMENT    ***********4250",Transfer,-103.97,Posted
+2025-09-02,"Hims & Hers Health","HIMS & HERS HEALTH       FORHIMS.COM  CA",Pharmacy,-606.00,Posted
+2025-09-02,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-08-29,"Transfer to Venmo","VENMO            PAYMENT    ***********8612",Transfer,-331.66,Posted
+2025-08-29,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-35.88,Posted
+2025-08-29,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-8.11,Posted
+2025-08-28,"Amazon","AMAZON.COM SERVI INTERNET   ***********9144",Shopping,-40.91,Posted
+2025-08-28,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-12.75,Posted
+2025-08-28,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-4.00,Posted
+2025-08-28,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********4800",Paycheck,3139.58,Posted
+2025-08-27,"Cox Communications","COX COMM PHX     PURCHASE   ***********HbnZ",Utilities,-135.95,Posted
+2025-08-27,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-42.63,Posted
+2025-08-27,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-10.94,Posted
+2025-08-26,"Transfer to Venmo","VENMO            PAYMENT    ***********2717",Transfer,-250.00,Posted
+2025-08-26,"Stash","STASH CAPITAL (S ACH        ***********0964",Investments,-100.00,Posted
+2025-08-26,"PayPal Purchase","PAYPAL           INST XFER  ***********1518",Uncategorized,-34.99,Posted
+2025-08-26,"Stash Cash Aac","Stash Cash Mngt  Stash      ***********4AAC",Investments,-30.00,Posted
+2025-08-26,"PayPal Purchase","PAYPAL           INST XFER  *********** D0C",Uncategorized,-11.61,Posted
+2025-08-25,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-199.00,Posted
+2025-08-25,"Shake Shack","SQ *SHAKE SHACK          Gilbert      AZ",Fast Food,-74.49,Posted
+2025-08-25,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-32.49,Posted
+2025-08-25,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-19.11,Posted
+2025-08-25,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-1.25,Posted
+2025-08-21,"USAA Property and Casualty Insurance","USAA P&C         AUTOPAY    ***********4749",Financial,-108.19,Posted
+2025-08-21,"Blue Sky Pest Co","Blue Sky Pest Co WWP*Blue S ***********8416",Uncategorized,-50.00,Posted
+2025-08-21,"Amazon","AMAZON MARKETPLA INTERNET   ***********9986",Shopping,-30.91,Posted
+2025-08-21,"Jv's Barbershop","SQ *JV'S BARBERSHOP      GILBERT      AZ",Hair,-39.60,Posted
+2025-08-20,"Amazon","AMAZON.COM SERVI INTERNET   ***********1692",Shopping,-44.33,Posted
+2025-08-20,"The Joint Gilbert","THE JOINT GILBERT        480-7739170  AZ",Doctor,-69.00,Posted
+2025-08-19,"Stash Cash","Stash Cash Mngt  Stash      ***********2VG9",Investments,-30.00,Posted
+2025-08-19,"Amazon","AMAZON.COM SERVI INTERNET   ***********3492",Shopping,-24.73,Posted
+2025-08-19,"Rocket Money Premium","Rocket Money     Premium    ***********H8K7",Financial,-10.78,Posted
+2025-08-19,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-08-19,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-08-18,"Transfer to Venmo","VENMO            PAYMENT    ***********1882",Transfer,-250.00,Posted
+2025-08-18,"Transfer to Venmo","VENMO            PAYMENT    ***********6746",Transfer,-233.54,Posted
+2025-08-18,"Paddle","PADDLE.COM MARKE IAT PAYPAL ***********3492",Electronics & Software,-53.87,Posted
+2025-08-18,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-176.95,Posted
+2025-08-18,"Raya Sunshine Pedia","GDP*RAYA SUNSHINE PEDIA  CHANDLER     AZ",Dentist,-26.00,Posted
+2025-08-18,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2025-08-15,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-433.19,Posted
+2025-08-15,"USAA Credit Card","USAA CREDIT CARD PAYMENT    ***********5021",Credit Card Payment,-66.00,Posted
+2025-08-14,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********6172",Paycheck,3139.58,Posted
+2025-08-13,"Transfer to Venmo","VENMO            PAYMENT    ***********3221",Transfer,-110.00,Posted
+2025-08-13,"Amazon","AMAZON MARKETPLA INTERNET   ***********0286",Shopping,-38.26,Posted
+2025-08-13,"PayPal Purchase","PAYPAL           INST XFER  ***********.HBO",Uncategorized,-18.31,Posted
+2025-08-12,"Stash Cash","Stash Cash Mngt  Stash      ***********TGZK",Investments,-30.00,Posted
+2025-08-12,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-27.06,Posted
+2025-08-11,"Transfer to Venmo","VENMO            PAYMENT    ***********3973",Transfer,-239.69,Posted
+2025-08-11,"PayPal Purchase","PAYPAL           INST XFER  ***********5857",Uncategorized,-12.75,Posted
+2025-08-11,"PayPal Purchase","PAYPAL           INST XFER  ***********RRIS",Uncategorized,-7.00,Posted
+2025-08-11,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-08-11,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-2.01,Posted
+2025-08-07,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2840.68,Posted
+2025-08-07,"PayPal Purchase","PAYPAL           INST XFER  ***********TIME",Uncategorized,-4.25,Posted
+2025-08-07,"Walgreens","WALGREENS STORE 1985 E   CHANDLER     AZ",Pharmacy,-36.62,Posted
+2025-08-05,"Transfer to Venmo","VENMO            PAYMENT    ***********0033",Transfer,-120.00,Posted
+2025-08-05,"Google Apps","GOOGLE           APPS_COMME ***********ND4B",Entertainment,-64.71,Posted
+2025-08-05,"Stash Cash","Stash Cash Mngt  Stash      ***********DD5H",Investments,-30.00,Posted
+2025-08-05,"Google Apps Comme","GOOGLE           APPS_COMME ***********K2S7",Entertainment,-16.17,Posted
+2025-08-05,"Stash","Stash Financial  Stash Subs ***********34FC",Investments,-9.00,Posted
+2025-08-04,"Disney+","PAYPAL           INST XFER  ***********PLUS",Television,-12.00,Posted
+2025-08-04,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-73.01,Posted
+2025-08-04,"OpenAI","OPENAI *CHATGPT SUBSCR   OPENAI.COM   CA",Business Services,-21.26,Posted
+2025-08-04,"Poor Yournwtravel","PDX POOR YOURNWTRAVEL    Portland     OR",Travel,-16.96,Posted
+2025-08-04,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-08-04,"Starbucks","STARBUCKS STORE 02916    WILSONVILLE  OR",Coffee Shops,-9.20,Posted
+2025-08-04,"Starbucks","STARBUCKS STORE 02916    WILSONVILLE  OR",Coffee Shops,-7.45,Posted
+2025-08-01,"Interest Paid","INTEREST PAID",Interest Income,0.02,Posted
+2025-08-01,"Safeway","SAFEWAY #0285            WILSONVILLE  OR",Groceries,-109.16,Posted
+2025-08-01,"Transfer from Venmo","VENMO            CASHOUT    ***********2940",Transfer,50.00,Posted
+2025-07-31,"Stash","STASH CAPITAL (S ACH        ***********3186",Investments,-100.00,Posted
+2025-07-31,"7-Eleven","7-ELEVEN                 Wilsonville  OR",Gas,-8.36,Posted
+2025-07-31,"7-Eleven","7-ELEVEN                 Wilsonville  OR",Gas,-2.69,Posted
+2025-07-31,"USConnect","USCONNECT PRMOR VNLC     WILSONVILLE  OR",Food & Dining,-2.65,Posted
+2025-07-31,"USConnect","USCONNECT PRMOR VNLC     WILSONVILLE  OR",Food & Dining,-2.65,Posted
+2025-07-31,"USConnect","USCONNECT PRMOR VNLC     WILSONVILLE  OR",Food & Dining,-2.15,Posted
+2025-07-30,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********5710",Paycheck,3139.58,Posted
+2025-07-29,"City of Chandler","CITY OF CHANDLER UTILITY    ***********7937",Utilities,-66.73,Posted
+2025-07-29,"Stash Cash","Stash Cash Mngt  Stash      ***********T9B6",Investments,-30.00,Posted
+2025-07-29,"Safeway","SAFEWAY #0782            SANDY        OR",Groceries,-37.24,Posted
+2025-07-29,"Safeway","SAFEWAY #0782            SANDY        OR",Groceries,-2.99,Posted
+2025-07-29,"Nayax","Nyx*NAYAX VENDING 29     HUNT VALLEY  MD",Fast Food,-1.25,Posted
+2025-07-28,"Cox Communications","COX COMM PHX     PURCHASE   ***********omWr",Utilities,-135.95,Posted
+2025-07-28,"Stash","STASH CAPITAL (S ACH        ***********7559",Investments,-100.00,Posted
+2025-07-28,"PayPal Purchase","PAYPAL           INST XFER  ***********1518",Uncategorized,-19.99,Posted
+2025-07-28,"PayPal Purchase","PAYPAL           INST XFER  *********** A15",Uncategorized,-8.44,Posted
+2025-07-28,"Bettes Place","TST*BETTES PLACE         Hood River   OR",Restaurants,-102.50,Posted
+2025-07-28,"Safeway","SAFEWAY #0782            SANDY        OR",Groceries,-81.88,Posted
+2025-07-28,"Scramble","PHX T3 SCRAMBLE 6291122  PHOENIX      AZ",Fast Food,-54.96,Posted
+2025-07-28,"Disc Totg Marley","DISC TOTG MARLEY ST196   PHOENIX      AZ",Electronics & Software,-23.99,Posted
+2025-07-28,"Carson Oil Co in","CARSON OIL CO IN         HOOD RIVER   OR",Gas,-14.26,Posted
+2025-07-28,"InReach","CTLP*INREACH             N BETHESDA   MD",Fast Food,-5.70,Posted
+2025-07-25,"Amazon","AMAZON.COM SERVI INTERNET   ***********3648",Shopping,-66.87,Posted
+2025-07-25,"Best of Valley Market","BEST OF VALLEY MKT ST27  PHOENIX      AZ",Shopping,-8.43,Posted
+2025-07-25,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-07-24,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-190.00,Posted
+2025-07-24,"Snip Its Gil","SNIP-ITS* SNIP-ITS-GIL   148-09638111 AZ",Hair,-48.47,Posted
+2025-07-22,"USAA Property and Casualty Insurance","USAA P&C         AUTOPAY    ***********4749",Financial,-108.69,Posted
+2025-07-22,"Amazon","AMAZON.COM SERVI INTERNET   ***********6354",Shopping,-60.86,Posted
+2025-07-22,"Blue Sky Pest Co","Blue Sky Pest Co WWP*Blue S ***********045e",Uncategorized,-50.00,Posted
+2025-07-22,"Amazon","AMAZON.COM SERVI INTERNET   ***********3228",Shopping,-43.65,Posted
+2025-07-22,"Stash Cash","Stash Cash Mngt  Stash      ***********3XX6",Investments,-30.00,Posted
+2025-07-21,"Rocket Money Premium","Rocket Money     Premium    ***********R4B6",Financial,-10.78,Posted
+2025-07-21,"Trader Joe's","TRADER JOE S #28 1779 E  GILBERT      AZ",Groceries,-156.94,Posted
+2025-07-21,"The Joint Gilbert","THE JOINT GILBERT        480-7739170  AZ",Doctor,-69.00,Posted
+2025-07-21,"Shell","SHELL SERVICE STATION    GILBERT      AZ",Gas,-18.90,Posted
+2025-07-17,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2025-07-16,"Republic Services","REPUBLICSERVICES RSIBILLPAY ***********5169",Utilities,-140.47,Posted
+2025-07-16,"Oregon Vital Rec","VCN*OREGON VITAL REC     888-4121838  OR",Business Services,-15.50,Posted
+2025-07-16,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********0110",Paycheck,3139.58,Posted
+2025-07-16,"Overdraft Credit Card Advance","OD CC ADVANCE",Finance Charge,200.00,Posted
+2025-07-15,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-341.21,Posted
+2025-07-15,"USAA Credit Card","USAA CREDIT CARD PAYMENT    ***********5021",Credit Card Payment,-52.00,Posted
+2025-07-15,"Stash Cash","Stash Cash Mngt  Stash      ***********JQPH",Investments,-30.00,Posted
+2025-07-14,"Amazon","AMAZON MARKETPLA INTERNET   ***********1710",Shopping,-58.37,Posted
+2025-07-14,"Amazon","AMAZON MARKETPLA INTERNET   ***********9972",Shopping,-41.42,Posted
+2025-07-14,"PayPal Purchase","PAYPAL           INST XFER  ***********P.HB",Uncategorized,-18.32,Posted
+2025-07-14,"Goodwill","GOODWILL #110204         CHANDLER     AZ",Shopping,-152.52,Posted
+2025-07-11,"Amazon","AMAZON.COM SERVI INTERNET   ***********1474",Shopping,-27.48,Posted
+2025-07-11,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-26.82,Posted
+2025-07-11,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-114.90,Posted
+2025-07-11,"Circle K","CIRCLE K 08834           CHANDLER     AZ",Gas,-17.51,Posted
+2025-07-10,"Transfer to Venmo","VENMO            PAYMENT    ***********7614",Transfer,-403.76,Posted
+2025-07-10,"PayPal Purchase","PAYPAL           INST XFER  ***********TIME",Uncategorized,-4.25,Posted
+2025-07-09,"PayPal Purchase","PAYPAL           INST XFER  ***********65F2",Uncategorized,-12.75,Posted
+2025-07-09,"PayPal Purchase","PAYPAL           INST XFER  ***********RRIS",Uncategorized,-7.00,Posted
+2025-07-09,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-07-08,"Stash Cash Uga","Stash Cash Mngt  Stash      ***********1UGA",Investments,-30.00,Posted
+2025-07-07,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2840.68,Posted
+2025-07-07,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-131.95,Posted
+2025-07-07,"Google Apps Comme","GOOGLE           APPS_COMME ***********6FN2",Entertainment,-57.60,Posted
+2025-07-07,"Amazon","AMAZON MARKETPLA INTERNET   ***********6196",Shopping,-48.08,Posted
+2025-07-07,"Amazon","AMAZON MARKETPLA INTERNET   ***********2116",Shopping,-46.76,Posted
+2025-07-07,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-14.51,Posted
+2025-07-07,"Google Apps Comme Unn","GOOGLE           APPS_COMME ***********7UNN",Entertainment,-14.40,Posted
+2025-07-07,"OpenAI","OPENAI *CHATGPT SUBSCR   OPENAI.COM   CA",Business Services,-21.26,Posted
+2025-07-07,"Transfer from Venmo","VENMO            CASHOUT    ***********3956",Transfer,143.20,Posted
+2025-07-03,"Interest Paid","INTEREST PAID",Interest Income,0.02,Posted
+2025-07-03,"Onpoint Visa Payment","ONPOINT VISA PMT PAYMENT    ***********6440",Credit Card Payment,-231.87,Posted
+2025-07-03,"Disney+","PAYPAL           INST XFER  ***********PLUS",Television,-12.00,Posted
+2025-07-03,"Stash","Stash Financial  Stash Subs ***********74CB",Investments,-9.00,Posted
+2025-07-03,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-07-03,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-07-03,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-07-02,"Transfer to Venmo","VENMO            PAYMENT    ***********9536",Transfer,-149.23,Posted
+2025-07-02,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********6721",Paycheck,3139.58,Posted
+2025-07-01,"Stash","STASH CAPITAL (S ACH        ***********1864",Investments,-100.00,Posted
+2025-07-01,"Stash Cash Adak","Stash Cash Mngt  Stash      ***********ADAK",Investments,-30.00,Posted
+2025-07-01,"Hims & Hers Health","HIMS & HERS HEALTH       FORHIMS.COM  CA",Pharmacy,-606.00,Posted
+2025-07-01,"Jv's Barbershop","SQ *JV'S BARBERSHOP      GILBERT      AZ",Hair,-39.60,Posted
+2025-07-01,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-06-30,"City of Chandler","CITY OF CHANDLER UTILITY    ***********7359",Utilities,-69.27,Posted
+2025-06-30,"PayPal Purchase","PAYPAL           INST XFER  ***********OTON",Uncategorized,-47.88,Posted
+2025-06-30,"Amazon","AMAZON.COM SERVI INTERNET   ***********3894",Shopping,-23.14,Posted
+2025-06-27,"Cox Communications","COX COMM PHX     PURCHASE   ***********UEsP",Utilities,-135.95,Posted
+2025-06-27,"Marshalls","MARSHALLS #205           GILBERT      AZ",Shopping,-79.01,Posted
+2025-06-26,"Stash","STASH CAPITAL (S ACH        ***********5578",Investments,-100.00,Posted
+2025-06-26,"PayPal Purchase","PAYPAL           INST XFER  ***********1518",Uncategorized,-19.99,Posted
+2025-06-26,"PayPal Purchase","PAYPAL           INST XFER  *********** FB8",Uncategorized,-8.44,Posted
+2025-06-24,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-182.00,Posted
+2025-06-24,"Stash Cash","Stash Cash Mngt  Stash      ***********TMP3",Investments,-30.00,Posted
+2025-06-23,"Transfer to Venmo","VENMO            PAYMENT    ***********6917",Transfer,-403.72,Posted
+2025-06-23,"USAA Property and Casualty Insurance","USAA P&C         AUTOPAY    ***********4749",Financial,-108.95,Posted
+2025-06-23,"Transfer to Venmo","VENMO            PAYMENT    ***********1810",Transfer,-67.56,Posted
+2025-06-23,"Blue Sky Pest Co","Blue Sky Pest Co WWP*Blue S ***********04fd",Uncategorized,-50.00,Posted
+2025-06-23,"Rocket Money Premium","Rocket Money     Premium    ***********L2U1",Financial,-10.78,Posted
+2025-06-23,"City of Chandler","CITY OF CHANDLER         480-782-2280 AZ",Utilities,-69.27,Posted
+2025-06-23,"Snip Its Gil","SNIP-ITS* SNIP-ITS-GIL   148-09638111 AZ",Hair,-39.88,Posted
+2025-06-20,"Transfer to Venmo","VENMO            PAYMENT    ***********6762",Transfer,-79.65,Posted
+2025-06-20,"Transfer to Venmo","VENMO            PAYMENT    ***********6930",Transfer,-4.38,Posted
+2025-06-18,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-230.16,Posted
+2025-06-17,"Stash Cash","Stash Cash Mngt  Stash      ***********G1YK",Investments,-30.00,Posted
+2025-06-17,"Amazon","AMAZON.COM SERVI INTERNET   ***********2866",Shopping,-27.48,Posted
+2025-06-17,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2025-06-17,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********1437",Paycheck,3139.58,Posted
+2025-06-16,"Amazon","AMAZON MARKETPLA INTERNET   ***********2740",Shopping,-44.92,Posted
+2025-06-16,"USAA Credit Card","USAA CREDIT CARD PAYMENT    ***********5021",Credit Card Payment,-22.00,Posted
+2025-06-16,"Amazon","AMAZON MARKETPLA INTERNET   ***********5180",Shopping,-20.42,Posted
+2025-06-16,"PayPal Purchase","PAYPAL           INST XFER  ***********TIME",Uncategorized,-4.25,Posted
+2025-06-16,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-36.72,Posted
+2025-06-16,"In-N-Out Burger","IN-N-OUT CHANDLER 3      CHANDLER     AZ",Fast Food,-36.27,Posted
+2025-06-16,"Transfer from Venmo","VENMO            CASHOUT    ***********5148",Transfer,312.62,Posted
+2025-06-13,"Amazon","AMAZON.COM SERVI INTERNET   ***********6422",Shopping,-41.42,Posted
+2025-06-13,"PayPal Purchase","PAYPAL           INST XFER  ***********X.CO",Uncategorized,-18.32,Posted
+2025-06-12,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-26.84,Posted
+2025-06-12,"Ppy Evolve Health","PPY*Evolve Health        801-9849500  OR",Doctor,-30.00,Posted
+2025-06-10,"Stash Cash","Stash Cash Mngt  Stash      ***********D8AK",Investments,-30.00,Posted
+2025-06-09,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2840.68,Posted
+2025-06-09,"Transfer to Venmo","VENMO            PAYMENT    ***********7795",Transfer,-400.00,Posted
+2025-06-09,"Transfer to Venmo","VENMO            PAYMENT    ***********0852",Transfer,-252.44,Posted
+2025-06-09,"Transfer to Venmo","VENMO            PAYMENT    ***********5657",Transfer,-74.63,Posted
+2025-06-09,"Amazon","AMAZON MARKETPLA INTERNET   ***********8438",Shopping,-37.21,Posted
+2025-06-09,"PayPal Purchase","PAYPAL           INST XFER  ***********8233",Uncategorized,-12.75,Posted
+2025-06-09,"PayPal Purchase","PAYPAL           INST XFER  ***********RRIS",Uncategorized,-7.00,Posted
+2025-06-09,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-06-09,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-1.00,Posted
+2025-06-06,"Amazon","AMAZON MARKETPLA INTERNET   ***********8152",Shopping,-68.53,Posted
+2025-06-05,"Google Apps Comme","GOOGLE           APPS_COMME ***********RDQK",Entertainment,-57.60,Posted
+2025-06-05,"Amazon","AMAZON MARKETPLA INTERNET   ***********6570",Shopping,-19.08,Posted
+2025-06-05,"Google Apps Comme","GOOGLE           APPS_COMME ***********N3WP",Entertainment,-14.40,Posted
+2025-06-05,"Circle K","CIRCLE K 06651           CHANDLER     AZ",Gas,-50.00,Posted
+2025-06-04,"OpenAI","OPENAI *CHATGPT SUBSCR   OPENAI.COM   CA",Business Services,-21.26,Posted
+2025-06-04,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********6841",Paycheck,3139.58,Posted
+2025-06-03,"Interest Paid","INTEREST PAID",Interest Income,0.01,Posted
+2025-06-03,"Stash Cash","Stash Cash Mngt  Stash      ***********XP1M",Investments,-30.00,Posted
+2025-06-03,"Disney+","PAYPAL           INST XFER  ***********PLUS",Television,-12.00,Posted
+2025-06-03,"Stash","Stash Financial  Stash Subs ***********542F",Investments,-9.00,Posted
+2025-06-02,"Stash","STASH CAPITAL (S ACH        ***********4260",Investments,-100.00,Posted
+2025-06-02,"Agh Hosp","AGH HOSP MESA FW         MESA         AZ",Doctor,-270.00,Posted
+2025-06-02,"Trader Joe's","TRADER JOE S #28 TRADER  GILBERT      AZ",Groceries,-72.60,Posted
+2025-06-02,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-06-02,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-1.00,Posted
+2025-05-30,"Amazon","AMAZON MARKETPLA INTERNET   ***********5480",Shopping,-47.30,Posted
+2025-05-30,"Amazon","AMAZON.COM SERVI INTERNET   ***********1340",Shopping,-29.59,Posted
+2025-05-28,"Stash","STASH CAPITAL (S ACH        ***********3825",Investments,-100.00,Posted
+2025-05-28,"Stash Cash","Stash Cash Mngt  Stash      ***********DLLN",Investments,-30.00,Posted
+2025-05-27,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-179.00,Posted
+2025-05-27,"Cox Communications","COX COMM PHX     PURCHASE   ***********R5Jj",Utilities,-135.95,Posted
+2025-05-27,"Amazon","AMAZON.COM SERVI INTERNET   ***********7782",Shopping,-32.91,Posted
+2025-05-27,"PayPal Purchase","PAYPAL           INST XFER  ***********1518",Uncategorized,-19.99,Posted
+2025-05-27,"PayPal Purchase","PAYPAL           INST XFER  *********** EAD",Uncategorized,-8.44,Posted
+2025-05-27,"Eraser Io Ioca","ERASER.IO                WWW.ERASER.IOCA",Electronics & Software,-120.00,Posted
+2025-05-27,"Goodwill","GOODWILL # 098           GILBERT      AZ",Shopping,-75.00,Posted
+2025-05-27,"El Gordo Mexican Grill","EL GORDO MEXICAN GRILL   CHANDLER     AZ",Restaurants,-54.70,Posted
+2025-05-27,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-53.33,Posted
+2025-05-27,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-45.00,Posted
+2025-05-27,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-36.96,Posted
+2025-05-27,"Transfer from Venmo","VENMO            CASHOUT    ***********6811",Transfer,229.29,Posted
+2025-05-23,"Transfer to Venmo","VENMO            PAYMENT    ***********0174",Transfer,-210.27,Posted
+2025-05-23,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-116.15,Posted
+2025-05-23,"Transfer to Venmo","VENMO            PAYMENT    ***********0006",Transfer,-18.41,Posted
+2025-05-23,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-13.93,Posted
+2025-05-23,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-42.03,Posted
+2025-05-21,"USAA Property and Casualty Insurance","USAA P&C         AUTOPAY    ***********4749",Financial,-108.96,Posted
+2025-05-21,"Blue Sky Pest Co","Blue Sky Pest Co WWP*Blue S ***********2488",Uncategorized,-50.00,Posted
+2025-05-21,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********5643",Paycheck,3139.58,Posted
+2025-05-20,"Stash Cash","Stash Cash Mngt  Stash      ***********U3V9",Investments,-30.00,Posted
+2025-05-20,"Amazon","AMAZON.COM SERVI INTERNET   ***********5252",Shopping,-28.67,Posted
+2025-05-19,"Transfer to Venmo","VENMO            PAYMENT    ***********7213",Transfer,-108.42,Posted
+2025-05-19,"Paddle","PADDLE.COM MARKE IAT PAYPAL ***********2875",Electronics & Software,-53.87,Posted
+2025-05-19,"Rocket Money Premium","Rocket Money     Premium    ***********W3N0",Financial,-10.78,Posted
+2025-05-19,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2025-05-19,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-12.48,Posted
+2025-05-15,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-217.72,Posted
+2025-05-15,"Amazon","AMAZON MARKETPLA INTERNET   ***********5832",Shopping,-37.21,Posted
+2025-05-14,"Stash Cash S Ar","Stash Cash Mngt  Stash      39S5AR2BDJ7N6H8",Income,200.00,Posted
+2025-05-13,"Stash Cash Oup","Stash Cash Mngt  Stash      ***********5OUP",Investments,-30.00,Posted
+2025-05-13,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-26.98,Posted
+2025-05-13,"PayPal Purchase","PAYPAL           INST XFER  ***********X.CO",Uncategorized,-18.32,Posted
+2025-05-13,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-05-12,"Transfer to Venmo","VENMO            PAYMENT    ***********8224",Transfer,-251.27,Posted
+2025-05-12,"Amazon","AMAZON MARKETPLA INTERNET   ***********9024",Shopping,-74.40,Posted
+2025-05-12,"Amazon","AMAZON MARKETPLA INTERNET   ***********9038",Shopping,-32.48,Posted
+2025-05-12,"Amazon","AMAZON MARKETPLA INTERNET   ***********4164",Shopping,-6.99,Posted
+2025-05-12,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-05-09,"PayPal Purchase","PAYPAL           INST XFER  ***********3355",Uncategorized,-12.75,Posted
+2025-05-09,"PayPal Purchase","PAYPAL           INST XFER  ***********RRIS",Uncategorized,-7.00,Posted
+2025-05-07,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2840.68,Posted
+2025-05-07,"PayPal Purchase","PAYPAL           INST XFER  ***********EDIN",Uncategorized,-191.24,Posted
+2025-05-07,"Stash","Stash Financial  Stash Subs ***********04CD",Investments,-9.00,Posted
+2025-05-07,"USAA Credit Card","USAA CREDIT CARD PAYMENT",Credit Card Payment,-6500.00,Posted
+2025-05-07,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********4961",Paycheck,3139.58,Posted
+2025-05-05,"Google Apps Comme","GOOGLE           APPS_COMME ***********7DPR",Entertainment,-57.60,Posted
+2025-05-05,"Google Apps Comme","GOOGLE           APPS_COMME ***********60GX",Entertainment,-14.40,Posted
+2025-05-05,"Disney+","PAYPAL           INST XFER  ***********PLUS",Television,-12.00,Posted
+2025-05-05,"Sharkeys Cuts for Kidsb","SHARKEYS CUTS FOR KIDSB  GILBERT      AZ",Hair,-47.80,Posted
+2025-05-05,"OpenAI","OPENAI *CHATGPT SUBSCR   OPENAI.COM   CA",Business Services,-21.26,Posted
+2025-05-05,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-05-05,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-2.01,Posted
+2025-05-05,"ATM Deposit","ATM DEPOSIT",Income,7200.00,Posted
+2025-05-02,"Interest Paid","INTEREST PAID",Interest Income,0.05,Posted
+2025-05-02,"Taxes Withheld","TAX WITHHELD",Taxes,-0.01,Posted
+2025-05-02,"Overdraft Credit Card Advance","OD CC ADVANCE",Finance Charge,100.00,Posted
+2025-05-01,"Stash","STASH CAPITAL (S ACH        ***********5269",Investments,-100.00,Posted
+2025-04-29,"City of Chandler","CITY OF CHANDLER UTILITY    ***********9162",Utilities,-66.73,Posted
+2025-04-29,"Stash Cash","Stash Cash Mngt  Stash      ***********IL24",Investments,-30.00,Posted
+2025-04-28,"Cox Communications","COX COMM PHX     BANK DRAFT ***********fVcV",Utilities,-135.95,Posted
+2025-04-28,"Stash","STASH CAPITAL (S ACH        ***********9141",Investments,-100.00,Posted
+2025-04-28,"PayPal Purchase","PAYPAL           INST XFER  *********** 8ED",Uncategorized,-8.44,Posted
+2025-04-28,"PayPal Purchase","PAYPAL           INST XFER  ***********1518",Uncategorized,-1.99,Posted
+2025-04-28,"Sport Clips","SPORT CLIPS - AZ101 - G  GILBERT      AZ",Hair,-67.99,Posted
+2025-04-28,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Gas,-50.00,Posted
+2025-04-28,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-16.90,Posted
+2025-04-28,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-2.00,Posted
+2025-04-25,"Costco","COSTCO WHSE #0644        GILBERT      AZ",Shopping,-134.28,Posted
+2025-04-25,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-27.62,Posted
+2025-04-25,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-04-25,"Mobile Deposit","DEPOSIT@MOBILE",Income,115.38,Posted
+2025-04-24,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-182.00,Posted
+2025-04-23,"Transfer to Venmo","VENMO            PAYMENT    ***********0277",Transfer,-227.63,Posted
+2025-04-23,"Blue Sky Pest Co","Blue Sky Pest Co WWP*Blue S ***********841e",Uncategorized,-50.00,Posted
+2025-04-23,"Amazon","AMAZON MARKETPLA INTERNET   ***********3746",Shopping,-35.30,Posted
+2025-04-23,"Amazon","AMAZON.COM SERVI INTERNET   ***********6408",Shopping,-27.48,Posted
+2025-04-23,"Chandler Air Inc","CHANDLER AIR INC.        480-8990267  AZ",Home Improvement,-6200.00,Posted
+2025-04-23,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********3380",Paycheck,3139.58,Posted
+2025-04-22,"USAA Property and Casualty Insurance","USAA P&C         AUTOPAY    ***********4749",Financial,-108.96,Posted
+2025-04-22,"Stash Cash","Stash Cash Mngt  Stash      ***********P7H7",Investments,-30.00,Posted
+2025-04-22,"Trust","PMS CC TRUST             800-2587482  CA",Doctor,-112.99,Posted
+2025-04-21,"Rocket Money Premium","Rocket Money     Premium    ***********L2Z5",Financial,-10.78,Posted
+2025-04-21,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-23.70,Posted
+2025-04-21,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-15.88,Posted
+2025-04-17,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2025-04-16,"Chandler Air Inc","CHANDLER AIR INC.        480-8990267  AZ",Home Improvement,-85.00,Posted
+2025-04-15,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-230.30,Posted
+2025-04-15,"Transfer to Venmo","VENMO            PAYMENT    ***********8511",Transfer,-182.15,Posted
+2025-04-15,"Stash Cash","Stash Cash Mngt  Stash      ***********NC33",Investments,-30.00,Posted
+2025-04-15,"Republic Services","REPUBLICSERVICES RSIBILLPAY ***********5169",Utilities,-1.28,Posted
+2025-04-14,"Check #995001","CHECK # 0000995001",Check,-9259.58,Posted
+2025-04-14,"Transfer to Venmo","VENMO            PAYMENT    ***********5411",Transfer,-97.55,Posted
+2025-04-14,"Amazon","AMAZON.COM SERVI INTERNET   ***********5424",Shopping,-29.75,Posted
+2025-04-14,"PayPal Purchase","PAYPAL           INST XFER  ***********X.CO",Uncategorized,-18.32,Posted
+2025-04-14,"Transfer to Venmo","VENMO            PAYMENT    ***********6163",Transfer,-2.56,Posted
+2025-04-14,"The Mexicano Chan","TST* THE MEXICANO- CHAN  CHANDLER     AZ",Restaurants,-141.35,Posted
+2025-04-14,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-16.99,Posted
+2025-04-14,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-1.00,Posted
+2025-04-14,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-1.00,Posted
+2025-04-11,"Waste Management","WASTE MANAGEMENT PAYMENT    ***********3001",Utilities,-26.11,Posted
+2025-04-11,"Wa Chandler Az","WA552506                 CHANDLER     AZ",Cash,-100.00,Posted
+2025-04-10,"Stash","STASH CAPITAL (S ACH        ***********6580",Investments,-25.00,Posted
+2025-04-10,"Country Place","FCB*COUNTRY PLACE A      866.800.4656 NE",Mortgage & Rent,-99.35,Posted
+2025-04-10,"Copper Still Moons","TST* COPPER STILL MOONS  GILBERT      AZ",Restaurants,-49.69,Posted
+2025-04-09,"Amazon","AMAZON MARKETPLA INTERNET   ***********2642",Shopping,-29.75,Posted
+2025-04-09,"PayPal Purchase","PAYPAL           INST XFER  ***********4E74",Uncategorized,-12.75,Posted
+2025-04-09,"PayPal Purchase","PAYPAL           INST XFER  ***********RRIS",Uncategorized,-7.00,Posted
+2025-04-09,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-04-09,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********0747",Paycheck,3215.58,Posted
+2025-04-08,"Amazon","AMAZON.COM SERVI INTERNET   ***********3110",Shopping,-401.81,Posted
+2025-04-08,"Stash Cash Ayi","Stash Cash Mngt  Stash      ***********AYI1",Investments,-30.00,Posted
+2025-04-07,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2840.68,Posted
+2025-04-07,"Transfer to Venmo","VENMO            PAYMENT    ***********6871",Transfer,-276.76,Posted
+2025-04-07,"Google Apps Comme","GOOGLE           APPS_COMME ***********NN6A",Entertainment,-57.60,Posted
+2025-04-07,"Google Apps Comme Om","GOOGLE           APPS_COMME ***********OM6D",Entertainment,-14.40,Posted
+2025-04-07,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-100.07,Posted
+2025-04-07,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-14.88,Posted
+2025-04-04,"OpenAI","OPENAI *CHATGPT SUBSCR   OPENAI.COM   CA",Business Services,-21.26,Posted
+2025-04-03,"Interest Paid","INTEREST PAID",Interest Income,0.06,Posted
+2025-04-03,"Taxes Withheld","TAX WITHHELD",Taxes,-0.01,Posted
+2025-04-03,"Disney+","PAYPAL           INST XFER  ***********PLUS",Television,-12.00,Posted
+2025-04-03,"Stash","Stash Financial  Stash Subs ***********141E",Investments,-9.00,Posted
+2025-04-02,"Stash","STASH CAPITAL (S ACH        ***********2257",Investments,-75.00,Posted
+2025-04-02,"Amazon","AMAZON.COM SERVI INTERNET   ***********8438",Shopping,-43.69,Posted
+2025-04-02,"Amazon","AMAZON.COM SERVI INTERNET   ***********2634",Shopping,-14.66,Posted
+2025-04-02,"Walgreens","WALGREENS STORE 1925 W   CHANDLER     AZ",Pharmacy,-33.98,Posted
+2025-04-01,"Stash Cash","Stash Cash Mngt  Stash      ***********Q2TL",Investments,-30.00,Posted
+2025-04-01,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-03-31,"City of Chandler","CITY OF CHANDLER UTILITY    ***********4138",Utilities,-66.73,Posted
+2025-03-31,"Amazon","AMAZON MARKETPLA INTERNET   ***********6016",Shopping,-28.68,Posted
+2025-03-31,"Amazon","AMAZON MARKETPLA INTERNET   ***********9898",Shopping,-19.43,Posted
+2025-03-31,"Goodwill","GOODWILL # 098           GILBERT      AZ",Shopping,-111.28,Posted
+2025-03-31,"Trader Joe's","TRADER JOE S #28 TRADER  GILBERT      AZ",Groceries,-61.11,Posted
+2025-03-31,"In-N-Out Burger","IN-N-OUT CHANDLER 3      CHANDLER     AZ",Fast Food,-33.89,Posted
+2025-03-28,"USAA Credit Card","USAA CREDIT CARD PAYMENT",Credit Card Payment,-15918.10,Posted
+2025-03-28,"Stash","STASH CAPITAL (S ACH        ***********7756",Investments,11234.05,Posted
+2025-03-28,"Stash","STASH CAPITAL (S ACH        ***********9583",Investments,5156.71,Posted
+2025-03-27,"Transfer to Venmo","VENMO            PAYMENT    ***********7248",Transfer,-250.03,Posted
+2025-03-27,"Cox Communications","COX COMM PHX     BANK DRAFT ***********0O8z",Utilities,-135.95,Posted
+2025-03-26,"Stash","STASH CAPITAL (S ACH        ***********0987",Investments,-75.00,Posted
+2025-03-26,"Amazon","AMAZON MARKETPLA INTERNET   ***********1788",Shopping,-22.31,Posted
+2025-03-26,"PayPal Purchase","PAYPAL           INST XFER  *********** 1AF",Uncategorized,-8.44,Posted
+2025-03-26,"PayPal Purchase","PAYPAL           INST XFER  ***********1518",Uncategorized,-1.99,Posted
+2025-03-26,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********4674",Paycheck,14213.50,Posted
+2025-03-25,"Stash Cash Po","Stash Cash Mngt  Stash      ***********PO82",Investments,-30.00,Posted
+2025-03-25,"Amazon","AMAZON.COM SERVI INTERNET   ***********6728",Shopping,-27.48,Posted
+2025-03-25,"Hims & Hers Health","HIMS & HERS HEALTH       FORHIMS.COM  CA",Pharmacy,-606.00,Posted
+2025-03-24,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-168.00,Posted
+2025-03-24,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-54.46,Posted
+2025-03-24,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-11.96,Posted
+2025-03-24,"City of Chandler","CITY OF CHANDLER         480-782-2280 AZ",Utilities,-69.27,Posted
+2025-03-24,"Sharkeys Cuts for Kidsb","SHARKEYS CUTS FOR KIDSB  GILBERT      AZ",Hair,-44.71,Posted
+2025-03-24,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-22.96,Posted
+2025-03-21,"USAA Property and Casualty Insurance","USAA P&C         AUTOPAY    ***********4749",Financial,-108.96,Posted
+2025-03-21,"Blue Sky Pest Co","Blue Sky Pest Co WWP*Blue S ***********c40b",Uncategorized,-50.00,Posted
+2025-03-20,"Transfer to Venmo","VENMO            PAYMENT    ***********5411",Transfer,-1826.85,Posted
+2025-03-19,"Transfer to Venmo","VENMO            PAYMENT    ***********9650",Transfer,-1000.00,Posted
+2025-03-19,"Rocket Money Premium","Rocket Money     Premium    ***********B1B3",Financial,-10.78,Posted
+2025-03-19,"Costco","COSTCO WHSE #0644        GILBERT      AZ",Shopping,-183.16,Posted
+2025-03-18,"Amazon","AMAZON.COM SERVI INTERNET   ***********0382",Shopping,-79.48,Posted
+2025-03-18,"Stash Cash Kupq","Stash Cash Mngt  Stash      ***********KUPQ",Investments,-30.00,Posted
+2025-03-17,"USAA Credit Card","USAA CREDIT CARD PAYMENT    ***********5021",Credit Card Payment,-333.00,Posted
+2025-03-17,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-188.81,Posted
+2025-03-17,"Fda","FDA CHANDLER #2115       CHANDLER     AZ",Restaurants,-194.58,Posted
+2025-03-17,"Costco","COSTCO WHSE #0644        GILBERT      AZ",Shopping,-99.61,Posted
+2025-03-17,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-51.43,Posted
+2025-03-17,"Jv's Barbershop","SQ *JV'S BARBERSHOP      GILBERT      AZ",Hair,-41.25,Posted
+2025-03-17,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2025-03-17,"Mesa Gateway Airport","PHX MESA GATEWAY AIRPOR  4809887600   AZ",Parking,-15.00,Posted
+2025-03-17,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-3.01,Posted
+2025-03-14,"Mobile Deposit","DEPOSIT@MOBILE",Income,3653.70,Posted
+2025-03-14,"Mobile Deposit","DEPOSIT@MOBILE",Income,807.66,Posted
+2025-03-13,"PayPal Purchase","PAYPAL           INST XFER  ***********X.CO",Uncategorized,-18.32,Posted
+2025-03-13,"Sun Devil Auto","SUN DEVIL AUTO 1222      CHANDLER     AZ",Gas,-141.20,Posted
+2025-03-12,"Costco","COSTCO WHSE #0644        GILBERT      AZ",Shopping,-271.48,Posted
+2025-03-12,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********6820",Paycheck,2731.79,Posted
+2025-03-11,"Stash Cash","Stash Cash Mngt  Stash      ***********0RZ3",Investments,-30.00,Posted
+2025-03-10,"Spotify","PAYPAL           INST XFER  ***********USAI",Music,-12.75,Posted
+2025-03-10,"PayPal Purchase","PAYPAL           INST XFER  ***********RRIS",Uncategorized,-7.00,Posted
+2025-03-10,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-03-10,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-3.01,Posted
+2025-03-10,"Stash Cash Gamkufhvf","Stash Cash Mngt  Stash      6GXDR2GAMKUFHVF",Income,120.00,Posted
+2025-03-07,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2840.68,Posted
+2025-03-06,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-44.16,Posted
+2025-03-06,"Wire Transfer Credit","WIRE TRANSFER CREDIT",Transfer,980.00,Posted
+2025-03-05,"Google Apps Comme","GOOGLE           APPS_COMME ***********6B9Y",Entertainment,-57.60,Posted
+2025-03-05,"Google Apps Comme","GOOGLE           APPS_COMME ***********7CS3",Entertainment,-14.40,Posted
+2025-03-04,"Stash Cash Ub","Stash Cash Mngt  Stash      ***********UB0T",Investments,-30.00,Posted
+2025-03-04,"Stash","Stash Financial  Stash Subs ***********2459",Investments,-9.00,Posted
+2025-03-04,"OpenAI","OPENAI *CHATGPT SUBSCR   OPENAI.COM   CA",Business Services,-21.26,Posted
+2025-03-03,"Interest Paid","INTEREST PAID",Interest Income,0.01,Posted
+2025-03-03,"Stash","STASH CAPITAL (S ACH        ***********7984",Investments,-135.00,Posted
+2025-03-03,"Stash","STASH CAPITAL (S ACH        ***********7453",Investments,-75.00,Posted
+2025-03-03,"Disney+","PAYPAL           INST XFER  ***********PLUS",Television,-12.00,Posted
+2025-03-03,"Circle K","CIRCLE K 01859           PHOENIX      AZ",Fast Food,-74.11,Posted
+2025-03-03,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-03-03,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-4.01,Posted
+2025-02-28,"Toyota","LHM TOYOTA PEORIA        PEORIA       AZ",Auto & Transport,-9.72,Posted
+2025-02-27,"Transfer to Venmo","VENMO            PAYMENT    ***********8589",Transfer,-143.32,Posted
+2025-02-27,"Cox Communications","COX COMM PHX     BANK DRAFT ***********OnxX",Utilities,-135.95,Posted
+2025-02-27,"Transfer from Venmo","VENMO            CASHOUT    ***********7729",Transfer,18.47,Posted
+2025-02-26,"Stash","STASH CAPITAL (S ACH        ***********5549",Investments,-75.00,Posted
+2025-02-26,"PayPal Purchase","PAYPAL           INST XFER  *********** BC8",Uncategorized,-8.44,Posted
+2025-02-26,"PayPal Purchase","PAYPAL           INST XFER  ***********BERG",Uncategorized,-1.99,Posted
+2025-02-26,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********0510",Paycheck,2731.79,Posted
+2025-02-25,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-177.00,Posted
+2025-02-25,"Stash Cash Gi","Stash Cash Mngt  Stash      ***********22GI",Investments,-30.00,Posted
+2025-02-24,"City of Chandler","CITY OF CHANDLER         480-782-2280 AZ",Utilities,-66.73,Posted
+2025-02-21,"USAA Property and Casualty Insurance","USAA P&C         AUTOPAY    ***********4749",Financial,-108.96,Posted
+2025-02-21,"Blue Sky Pest Co S","Blue Sky Pest Co WWP*Blue S ***********a4f0",Uncategorized,-50.00,Posted
+2025-02-21,"Circle K","CIRCLE K 06651           CHANDLER     AZ",Fast Food,-32.40,Posted
+2025-02-19,"Paddle","PADDLE.COM MARKE IAT PAYPAL ***********2406",Electronics & Software,-53.87,Posted
+2025-02-19,"Stash Cash Lvy","Stash Cash Mngt  Stash      ***********LVY7",Investments,-30.00,Posted
+2025-02-19,"Rocket Money Premium","Rocket Money     Premium    ***********N3D3",Financial,-10.78,Posted
+2025-02-18,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-227.62,Posted
+2025-02-18,"Costco","COSTCO WHSE #0644        GILBERT      AZ",Shopping,-275.82,Posted
+2025-02-18,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-22.08,Posted
+2025-02-18,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2025-02-14,"Uber","PAYPAL           INST XFER  ***********UBER",Rental Car & Taxi,-40.41,Posted
+2025-02-14,"S Unibody &a","PP*AL&APOS S UNIBODY &A  PHOENIX      AZ",Business Services,-4025.00,Posted
+2025-02-14,"Fry's Food and Drug","FRYS-FOOD-DRG #0072      GILBERT      AZ",Groceries,-56.88,Posted
+2025-02-13,"WASTE MANAGEMENT PAYMENT    ***********3001","WASTE MANAGEMENT PAYMENT    ***********3001",Category Pending,-55.81,Posted
+2025-02-13,"PAYPAL           INST XFER  ***********X.CO","PAYPAL           INST XFER  ***********X.CO",Category Pending,-18.32,Posted
+2025-02-12,"BLU OMEGA LLC    PAYROLL    ***********4125","BLU OMEGA LLC    PAYROLL    ***********4125",Category Pending,2731.79,Posted
+2025-02-11,"Stash Cash Mngt  Stash      ***********7GU8","Stash Cash Mngt  Stash      ***********7GU8",Category Pending,-30.00,Posted
+2025-02-11,"VENMO            CASHOUT    ***********7887","VENMO            CASHOUT    ***********7887",Category Pending,2000.00,Posted
+2025-02-10,"AMAZON MARKETPLA INTERNET   ***********4728","AMAZON MARKETPLA INTERNET   ***********4728",Category Pending,-64.28,Posted
+2025-02-10,"PAYPAL           INST XFER  ***********USAI","PAYPAL           INST XFER  ***********USAI",Category Pending,-12.75,Posted
+2025-02-10,"PAYPAL           INST XFER  ***********RRIS","PAYPAL           INST XFER  ***********RRIS",Category Pending,-7.00,Posted
+2025-02-10,"TST* COPPER STILL MOONS  GILBERT      AZ","TST* COPPER STILL MOONS  GILBERT      AZ",Category Pending,-103.01,Posted
+2025-02-10,"ARIZONA TUBES AND HOSE   PHOENIX      AZ","ARIZONA TUBES AND HOSE   PHOENIX      AZ",Category Pending,-40.00,Posted
+2025-02-10,"POSIT SOFTWARE  PBC      WWW.POSIT.CO MA","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Category Pending,-13.82,Posted
+2025-02-10,"ICP*Goldfish Swim Schoo  480-6802323  AZ","ICP*Goldfish Swim Schoo  480-6802323  AZ",Category Pending,-2.01,Posted
+2025-02-07,"LAKEVIEW LN SRV  MTG PYMT   ***********8233","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Category Pending,-2784.80,Posted
+2025-02-07,"STASH CAPITAL (S ACH        ***********0740","STASH CAPITAL (S ACH        ***********0740",Category Pending,515.85,Posted
+2025-02-06,"PULL N SAVE 27TH AVE     PHOENIX      AZ","PULL N SAVE 27TH AVE     PHOENIX      AZ",Category Pending,-3.00,Posted
+2025-02-05,"GOOGLE           APPS_COMME ***********RJNE","GOOGLE           APPS_COMME ***********RJNE",Category Pending,-57.60,Posted
+2025-02-05,"GOOGLE           APPS_COMME ***********RKIB","GOOGLE           APPS_COMME ***********RKIB",Category Pending,-14.40,Posted
+2025-02-04,"Stash Cash Mngt  Stash      ***********8KEM","Stash Cash Mngt  Stash      ***********8KEM",Category Pending,-30.00,Posted
+2025-02-04,"Stash Financial  Stash Subs ***********B4E3","Stash Financial  Stash Subs ***********B4E3",Category Pending,-9.00,Posted
+2025-02-04,"OPENAI *CHATGPT SUBSCR   OPENAI.COM   CA","OPENAI *CHATGPT SUBSCR   OPENAI.COM   CA",Category Pending,-21.26,Posted
+2025-02-04,"Stash Cash Svehurqgun","Stash Cash Mngt  Stash      3ZNH5SVEHURQGUN",Income,310.00,Posted
+2025-02-03,"Interest Paid","INTEREST PAID",Interest Income,0.03,Posted
+2025-02-03,"Taxes Withheld","TAX WITHHELD",Taxes,-0.01,Posted
+2025-02-03,"Transfer to Venmo","VENMO            PAYMENT    ***********4037",Transfer,-91.01,Posted
+2025-02-03,"Disney+","PAYPAL           INST XFER  ***********PLUS",Television,-12.00,Posted
+2025-02-03,"Transfer to Venmo","VENMO            PAYMENT    ***********4998",Transfer,-3.00,Posted
+2025-02-03,"Trader Joe's","TRADER JOE S #28 TRADER  GILBERT      AZ",Groceries,-70.34,Posted
+2025-02-03,"Circle K","CIRCLE K # 41604         CHANDLER     AZ",Gas,-50.00,Posted
+2025-02-03,"Sport Clips","SPORT CLIPS - AZ 4470 S  CHANDLER     AZ",Hair,-36.00,Posted
+2025-02-03,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-01-31,"Stash","STASH CAPITAL (S ACH        ***********5009",Investments,-75.00,Posted
+2025-01-31,"OpenAI","OPENAI                   OPENAI.COM   CA",Business Services,-21.26,Posted
+2025-01-29,"Stash","STASH CAPITAL (S ACH        ***********8662",Investments,-135.00,Posted
+2025-01-29,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********3436",Paycheck,2731.79,Posted
+2025-01-28,"Stash","STASH CAPITAL (S ACH        ***********8910",Investments,-75.00,Posted
+2025-01-28,"Stash Cash","Stash Cash Mngt  Stash      ***********DKN8",Investments,-30.00,Posted
+2025-01-27,"Cox Communications","COX COMM PHX     BANK DRAFT ***********BifN",Utilities,-135.95,Posted
+2025-01-27,"Transfer to Venmo","VENMO            PAYMENT    ***********2540",Transfer,-94.61,Posted
+2025-01-27,"PayPal Purchase","PAYPAL           INST XFER  *********** 87A",Uncategorized,-8.44,Posted
+2025-01-24,"Amazon Store Card","AMZ_STORECRD_PMT PAYMENT    ***********6199",Credit Card Payment,-178.00,Posted
+2025-01-24,"USAA Credit Card","USAA CREDIT CARD PAYMENT",Credit Card Payment,-1700.00,Posted
+2025-01-24,"Chandler","CHANDLER Q               CHANDLER     AZ",Gas,-50.01,Posted
+2025-01-23,"Vimeo","VMO*VIMEO.COM            848-359-5618 NY",Entertainment,-116.21,Posted
+2025-01-22,"USAA Property and Casualty Insurance","USAA P&C         AUTOPAY    ***********4749",Financial,-81.43,Posted
+2025-01-22,"Blue Sky Pest Co","Blue Sky Pest Co WWP*Blue S ***********54d0",Lawn & Garden,-50.00,Posted
+2025-01-22,"Stash Cash Er","Stash Cash Mngt  Stash      ***********ER4J",Investments,-30.00,Posted
+2025-01-22,"Rocket Money Premium","Rocket Money     Premium    ***********G5S6",Financial,-10.78,Posted
+2025-01-22,"City of Chandler","CITY OF CHANDLER         480-782-2280 AZ",Utilities,-69.27,Posted
+2025-01-21,"Transfer to Venmo","VENMO            PAYMENT    ***********9984",Transfer,-200.00,Posted
+2025-01-21,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-87.66,Posted
+2025-01-21,"Uber Eats","PAYPAL           INST XFER  ***********EATS",Food & Dining,-12.27,Posted
+2025-01-21,"Costco","COSTCO WHSE #0644        GILBERT      AZ",Shopping,-261.91,Posted
+2025-01-21,"Costco","COSTCO WHSE #0644        GILBERT      AZ",Shopping,-8.85,Posted
+2025-01-21,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-5.01,Posted
+2025-01-21,"Transfer from Venmo","VENMO            CASHOUT    ***********1584",Transfer,15.52,Posted
+2025-01-17,"Salt River Project SurePay","SRP              SUREPAY-S1 ***********8008",Bills & Utilities,-187.60,Posted
+2025-01-17,"Posit Software","POSIT SOFTWARE  PBC      POSIT.CO     MA",Business Services,-15.95,Posted
+2025-01-16,"Circle K","CIRCLE K # 03462         GILBERT      AZ",Fast Food,-2.96,Posted
+2025-01-16,"Blu Omega Payroll","BLU OMEGA LLC    PAYROLL    ***********0725",Paycheck,2731.79,Posted
+2025-01-15,"Republic Services","REPUBLICSERVICES RSIBILLPAY ***********5169",Utilities,-140.47,Posted
+2025-01-14,"Amazon","AMAZON.COM SERVI INTERNET   ***********0010",Shopping,-77.66,Posted
+2025-01-14,"Stash Cash","Stash Cash Mngt  Stash      ***********L4PL",Investments,-30.00,Posted
+2025-01-14,"Amazon","AMAZON.COM SERVI INTERNET   ***********9290",Shopping,-14.53,Posted
+2025-01-13,"Transfer to Venmo","VENMO            PAYMENT    ***********2900",Transfer,-316.53,Posted
+2025-01-13,"Republic Services","REPUBLICSERVICES RSIBILLPAY ***********5169",Utilities,-140.47,Posted
+2025-01-13,"PayPal Purchase","PAYPAL           INST XFER  ***********X.CO",Uncategorized,-18.32,Posted
+2025-01-13,"Country Place at","COUNTRY PLACE AT CH      866.800.4656 NE",Mortgage & Rent,-214.14,Posted
+2025-01-13,"The Uncommon","TST* THE UNCOMMON        CHANDLER     AZ",Restaurants,-80.52,Posted
+2025-01-13,"Goodwill","GOODWILL # 098           GILBERT      AZ",Shopping,-46.77,Posted
+2025-01-13,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-3.01,Posted
+2025-01-10,"Spotify","PAYPAL           INST XFER  ***********USAI",Music,-12.75,Posted
+2025-01-10,"PayPal Purchase","PAYPAL           INST XFER  ***********RRIS",Uncategorized,-7.00,Posted
+2025-01-09,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted
+2025-01-07,"Lakeview Loan Servicing","LAKEVIEW LN SRV  MTG PYMT   ***********8233",Mortgage & Rent,-2784.80,Posted
+2025-01-07,"Stash Cash","Stash Cash Mngt  Stash      ***********PQGV",Investments,-30.00,Posted
+2025-01-07,"Transfer from Venmo","VENMO            CASHOUT    ***********9543",Transfer,337.50,Posted
+2025-01-06,"Transfer to Venmo","VENMO            PAYMENT    ***********5394",Transfer,-74.21,Posted
+2025-01-06,"Google Apps Comme","GOOGLE           APPS_COMME ***********82VR",Entertainment,-57.60,Posted
+2025-01-06,"Transfer to Venmo","VENMO            PAYMENT    ***********5249",Transfer,-28.65,Posted
+2025-01-06,"Google Apps Comme Aent","GOOGLE           APPS_COMME ***********AENT",Entertainment,-14.40,Posted
+2025-01-06,"USAA Credit Card","USAA CREDIT CARD PAYMENT",Credit Card Payment,-2000.00,Posted
+2025-01-06,"Freeway Pdm Llc","SQ *FREEWAY PDM LLC      gosq.com     AZ",Rental Car & Taxi,-280.00,Posted
+2025-01-06,"Oakville Norton","OBSIDIAN.MD              OAKVILLE NORTON",Shopping,-48.48,Posted
+2025-01-06,"OpenAI","OPENAI *CHATGPT SUBSCR   HTTPSOPENAI.CCA",Business Services,-21.26,Posted
+2025-01-06,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-2.01,Posted
+2025-01-06,"Icp Goldfish Swim Schoo","ICP*Goldfish Swim Schoo  480-6802323  AZ",Education,-1.00,Posted
+2025-01-03,"Interest Paid","INTEREST PAID",Interest Income,0.05,Posted
+2025-01-03,"Taxes Withheld","TAX WITHHELD",Taxes,-0.01,Posted
+2025-01-03,"Disney+","PAYPAL           INST XFER  ***********PLUS",Television,-12.00,Posted
+2025-01-03,"Stash","Stash Financial  Stash Subs ***********7452",Investments,-9.00,Posted
+2025-01-02,"PayPal Purchase","PAYPAL           INST XFER  ***********CART",Uncategorized,-66.40,Posted
+2025-01-02,"Posit Software","POSIT SOFTWARE  PBC      WWW.POSIT.CO MA",Electronics & Software,-13.82,Posted

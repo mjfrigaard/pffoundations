@@ -1,0 +1,27 @@
+Package: pffoundations
+Title: Personal Finance Foundations
+Version: 0.0.0.9000
+Description: An interactive Shiny interface for the math and programming
+    concepts covered in five personal finance chapters: income, tracking
+    spending, budgeting, managing debt, and emergency funds.
+Authors@R: person("First", "Last", email = "first.last@example.com",
+    role = c("aut", "cre"))
+License: MIT + file LICENSE
+Imports:
+    bsicons,
+    bslib,
+    dplyr,
+    DT,
+    reactable,
+    ggplot2,
+    shiny,
+    thematic,
+    tibble
+Suggests:
+    testthat (>= 3.0.0)
+Encoding: UTF-8
+Config/roxygen2/markdown: TRUE
+Config/testthat/edition: 3
+Depends: R (>= 4.1.0)
+Config/roxygen2/version: 8.0.0
+LazyData: true

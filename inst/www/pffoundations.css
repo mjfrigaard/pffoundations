@@ -1,0 +1,369 @@
+/* pffoundations — Custom styles */
+
+:root {
+  /* Named palette */
+  --pff-forest: #2d5016;
+  --pff-sage: #7cb342;
+  --pff-clay: #a1887f;
+  --pff-cream: #f5f1ed;
+  --pff-charcoal: #2c3e36;
+  --pff-alert: #d97748;
+}
+
+/* Typography */
+body {
+  font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--pff-charcoal);
+  background-color: var(--pff-cream);
+}
+
+/* Display typeface for headers */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-title {
+  font-family: "IBM Plex Serif", Georgia, serif;
+  font-weight: bold;
+  color: var(--pff-charcoal);
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+  margin-bottom: 0.875rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+h4 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+/* Utility monospace for formulas/code */
+code,
+.formula,
+kbd {
+  font-family: "Courier New", monospace;
+  font-size: 0.9em;
+}
+
+/* Help text styling */
+.help-text,
+.form-text {
+  font-size: 0.85rem;
+  color: var(--pff-sage);
+}
+
+/* Input labels */
+.form-label {
+  font-weight: 600;
+  color: var(--pff-charcoal);
+  margin-bottom: 0.5rem;
+}
+
+/* Focus state for inputs */
+.form-control:focus,
+.form-select:focus,
+input[type="number"]:focus,
+select:focus {
+  border-color: var(--pff-forest);
+  box-shadow: 0 0 0 0.2rem rgba(45, 80, 22, 0.25);
+  outline: none;
+}
+
+/* Value boxes (results cards) */
+.bslib-value-box {
+  border: none;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  padding: 1.5rem;
+  background: white;
+  transition: background-color 0.2s ease;
+}
+
+.bslib-value-box.highlight {
+  background-color: var(--pff-sage);
+  color: white;
+}
+
+.bslib-value-box.highlight .bslib-value-box-title {
+  color: white;
+}
+
+.bslib-value-box .bslib-value-box-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--pff-sage);
+  margin-bottom: 0.5rem;
+}
+
+.bslib-value-box .bslib-value-box-value {
+  font-size: 1.75rem;
+  font-weight: bold;
+  color: var(--pff-charcoal);
+}
+
+/* Card styling */
+.bslib-card {
+  border: 1px solid #e5e0db;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.bslib-card-title,
+.card-header {
+  background-color: var(--pff-cream);
+  border-bottom: 2px solid var(--pff-forest);
+  font-family: "IBM Plex Serif", Georgia, serif;
+  font-weight: bold;
+  color: var(--pff-forest);
+  padding: 1rem 1.5rem;
+}
+
+.bslib-card {
+  padding: 1.5rem;
+}
+
+/* Navbar branding */
+.navbar {
+  background-color: var(--pff-forest) !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+  font-family: "IBM Plex Serif", Georgia, serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white !important;
+}
+
+.nav-link {
+  color: rgba(255, 255, 255, 0.85) !important;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.nav-link:hover {
+  color: var(--pff-sage) !important;
+}
+
+.nav-link.active {
+  color: var(--pff-sage) !important;
+  border-bottom: 3px solid var(--pff-sage);
+}
+
+/* Sidebar styling */
+.bslib-sidebar {
+  background-color: white;
+  border-right: 1px solid #e5e0db;
+  padding: 1.5rem;
+}
+
+.bslib-sidebar .form-group {
+  margin-bottom: 1.25rem;
+}
+
+/* Action buttons */
+.btn-primary {
+  background-color: var(--pff-forest);
+  border-color: var(--pff-forest);
+  font-weight: 600;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.btn-primary:hover {
+  background-color: #1e3a0f;
+  border-color: #1e3a0f;
+}
+
+.btn-primary:active,
+.btn-primary:focus {
+  background-color: #1e3a0f;
+  border-color: #1e3a0f;
+  box-shadow: 0 0 0 0.2rem rgba(45, 80, 22, 0.5);
+}
+
+.btn-success {
+  background-color: var(--pff-sage);
+  border-color: var(--pff-sage);
+}
+
+.btn-success:hover {
+  background-color: #689f37;
+  border-color: #689f37;
+}
+
+.btn-danger {
+  background-color: var(--pff-alert);
+  border-color: var(--pff-alert);
+}
+
+.btn-danger:hover {
+  background-color: #c25d34;
+  border-color: #c25d34;
+}
+
+.btn-outline-secondary {
+  color: var(--pff-clay);
+  border-color: var(--pff-clay);
+}
+
+.btn-outline-secondary:hover {
+  background-color: var(--pff-clay);
+  color: white;
+  border-color: var(--pff-clay);
+}
+
+/* Tab styling */
+.nav-tabs {
+  border-bottom: 2px solid #e5e0db;
+}
+
+.nav-tabs .nav-link {
+  color: var(--pff-charcoal);
+  border: none;
+  border-bottom: 3px solid transparent;
+  transition: all 0.2s ease;
+  font-weight: 500;
+}
+
+.nav-tabs .nav-link:hover {
+  color: var(--pff-forest);
+  border-bottom-color: var(--pff-sage);
+}
+
+.nav-tabs .nav-link.active {
+  color: var(--pff-forest);
+  border-bottom-color: var(--pff-forest);
+  background-color: transparent;
+}
+
+/* Horizontal rule */
+hr {
+  border-color: #e5e0db;
+  margin: 1.25rem 0;
+}
+
+/* Table styling */
+table {
+  font-size: 0.9rem;
+}
+
+th {
+  background-color: var(--pff-cream);
+  color: var(--pff-forest);
+  font-weight: 600;
+  border-bottom: 2px solid var(--pff-forest);
+}
+
+td {
+  color: var(--pff-charcoal);
+  border-bottom: 1px solid #e5e0db;
+}
+
+tr:hover {
+  background-color: rgba(124, 179, 66, 0.05);
+}
+
+/* DataTables overrides */
+.dataTables_wrapper {
+  font-size: 0.9rem;
+}
+
+.dataTables_length,
+.dataTables_info {
+  color: var(--pff-charcoal);
+}
+
+/* Alert styling */
+.alert {
+  border: none;
+  border-left: 4px solid;
+  border-radius: 0;
+}
+
+.alert-warning {
+  background-color: rgba(217, 119, 72, 0.1);
+  border-left-color: var(--pff-alert);
+  color: var(--pff-charcoal);
+}
+
+.alert-info {
+  background-color: rgba(124, 179, 66, 0.1);
+  border-left-color: var(--pff-sage);
+  color: var(--pff-charcoal);
+}
+
+/* Signature micro-interaction: result highlight */
+@keyframes calc-pulse {
+  0% {
+    background-color: white;
+  }
+  50% {
+    background-color: var(--pff-sage);
+  }
+  100% {
+    background-color: white;
+  }
+}
+
+.value-box-highlight {
+  animation: calc-pulse 0.4s ease-in-out;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+  }
+
+  .bslib-sidebar {
+    margin-bottom: 1.5rem;
+    border-right: none;
+    border-bottom: 1px solid #e5e0db;
+  }
+
+  .bslib-value-box {
+    padding: 1rem;
+  }
+
+  .bslib-value-box .bslib-value-box-value {
+    font-size: 1.25rem;
+  }
+}
+
+/* Print styles */
+@media print {
+  body {
+    background-color: white;
+  }
+
+  .navbar,
+  .bslib-sidebar {
+    display: none;
+  }
+
+  .bslib-card {
+    page-break-inside: avoid;
+  }
+}

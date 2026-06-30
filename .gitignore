@@ -1,0 +1,13 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# AI assistant instruction & state files — never commit
+CLAUDE.md
+AGENTS.md
+.claude/
+.positai/
+.posit/
