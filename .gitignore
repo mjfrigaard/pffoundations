@@ -4,6 +4,7 @@
 .RData
 .Ruserdata
 *.Rproj
+.DS_Store
 
 # AI assistant instruction & state files — never commit
 CLAUDE.md
